@@ -1,0 +1,44 @@
+baptism_duplicates:
+  maximum_duplicate_gap_years: 1
+  sibling_reuse_minimum_gap_years: 2
+  require_child_name_match: true
+  require_parent_pair_match: true
+
+marriage_duplicates:
+  maximum_duplicate_gap_years: 3
+  require_groom_match: true
+  require_bride_match: true
+  require_groom_parents_match: true
+  require_bride_parents_match: true
+  require_place_match: true
+
+chronology:
+  burial_must_follow_baptism: true
+  burial_must_follow_marriage: true
+  baptism_before_marriage_minimum_years: 10
+  minimum_marriage_age: 12
+  chronology_conflict_action: manual_review
+
+age:
+  use_as_hard_rejection: false
+  acceptable_difference_years: 15
+  expert_review_difference_years: 16
+
+remarriage:
+  single_to_widowed: strong_support
+  single_to_single_different_spouse: conflict
+  spouse_mismatch_action: verify_second_marriage
+
+parents:
+  both_match: very_strong
+  one_match_other_variant: strong
+  one_match_other_missing: moderate
+  conflict_action: baptism_verification
+
+name_frequency:
+  rare_name_strengthens_match: true
+  common_name_requires_corroboration: true
+
+decision_thresholds:
+  auto_accept: 0.95
+  manual_review: 0.80

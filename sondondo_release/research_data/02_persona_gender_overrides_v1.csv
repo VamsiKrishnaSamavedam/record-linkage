@@ -1,0 +1,4 @@
+persona_idno,reviewed_gender_evidence,override_reason,reviewed_by,reviewed_at
+persona-33201,male,"Dr. De la Puente checked the original matrimonio-851 record: Delacruz Bendezu is male and is the same person as the Delacruz Bendezu in matrimonio-856.",Dr. De la Puente,2026-08-21
+persona-33248,male,"Dr. De la Puente checked the original matrimonio-856 record: Delacruz Bendezu is male and is the same person as the Delacruz Bendezu in matrimonio-851.",Dr. De la Puente,2026-08-21
+persona-6274,female,"Professor JCP verified that Barbara Orosco in bautizo-1610 is female; source role is mother. Preserve raw source fields and apply this only to reviewed gender evidence.",JCP,2026-09-11

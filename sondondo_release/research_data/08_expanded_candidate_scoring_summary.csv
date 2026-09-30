@@ -1,0 +1,11 @@
+metric,value
+expanded_candidates_scored,8093.0
+high_priority_review_pairs,1945.0
+manual_review_pairs,6148.0
+minimum_match_probability,0.0077444716594754996
+median_match_probability,0.9999926643983656
+maximum_match_probability,0.999999999693114
+gender_conflicts,0.0
+chronology_flags,0.0
+same_event_same_role_flags,0.0
+automatic_identity_cluster_changes,0.0

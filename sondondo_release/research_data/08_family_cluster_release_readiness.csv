@@ -1,0 +1,12 @@
+metric,value
+input_personas,47072
+safe_identity_personas,41251
+provisional_singleton_personas,5821
+identity_people,44995
+family_clusters,29013
+trusted_family_relationships_validated,16281
+trusted_relationship_cross_cluster_failures,0
+expanded_candidates_held_for_review,8093
+sibling_candidates_held_for_review,480
+automatic_identity_cluster_changes_in_day3_release,0
+release_ready_for_safe_family_lookup,1

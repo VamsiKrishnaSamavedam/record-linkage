@@ -1,0 +1,10 @@
+metric,value
+marriage_records,1719
+eligible_marriage_spouses_with_parent_pair_and_plausible_birth_timing,1194
+eligible_baptism_children_with_parent_pair,6052
+review_only_parent_pair_window_candidates,480
+potential_siblings,452
+possible_spouse_self_baptisms,28
+children_before_marriage_kept,480
+automatic_identity_cluster_changes,0
+window_years,15

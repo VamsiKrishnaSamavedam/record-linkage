@@ -1,0 +1,16 @@
+metric,value
+frequency_input_rows,22026
+frequency_first_names,1830
+frequency_last_names,2128
+first_name_abbreviation_rules,20
+first_name_variant_rules,409
+last_name_variant_rules,503
+rule_mapping_cycles_resolved,7
+rule_mapping_residual_cycles,0
+rule_mapping_conflicts,0
+final_lookup_rows,22982
+female_first_name_entries,887
+male_first_name_entries,919
+unknown_gender_first_name_entries,24
+very_rare_first_name_entries,846
+most_common_first_name_entries,272

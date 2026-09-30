@@ -1,0 +1,1565 @@
+identity_person_id,family_cluster_id,preferred_name,gender,earliest_year,latest_year,roles,source_persona_count,safe_persona_count
+HP-00000011,FCL2-000005,juliana chinchay,female,1790,1795,mother,2,2
+HP-00000138,FCL2-000071,juan sanchez,male,1791,1796,father,2,2
+HP-00000160,FCL2-000083,francisco mendosa,male,1791,1796,father,2,2
+HP-00000168,FCL2-000087,pedro huauia,male,1791,1799,father,3,3
+HP-00000169,FCL2-000087,ynes sanches,female,1791,1799,mother,3,3
+HP-00000176,FCL2-000091,manuel suica,male,1791,1796,father,2,2
+HP-00000177,FCL2-000091,jasinta luca,female,1791,1796,mother,2,2
+HP-00000180,FCL2-000093,mathias condori,male,1791,1792,father,2,2
+HP-00000181,FCL2-000093,nicolasa tito,female,1791,1792,mother,2,2
+HP-00000185,FCL2-000094,petrona sanches,female,1791,1799,mother,2,2
+HP-00000236,FCL2-000122,nicolas palomino,male,1791,1810,father,3,3
+HP-00000237,FCL2-000122,francisca garcia,female,1791,1810,mother,3,3
+HP-00000252,FCL2-000130,petrona mitma,female,1791,1796,mother,4,4
+HP-00000291,FCL2-000150,asencio cuchu,male,1791,1795,father,2,2
+HP-00000311,FCL2-000160,alexo poma,male,1791,1794,father,2,2
+HP-00000312,FCL2-000160,lucia juares,female,1791,1794,mother,2,2
+HP-00000320,FCL2-000164,josepha huamani,female,1791,1796,mother,2,2
+HP-00000327,FCL2-000168,vicente aparco,male,1791,1796,father,2,2
+HP-00000328,FCL2-000168,juliana carrion,female,1791,1796,mother,2,2
+HP-00000343,FCL2-000176,thomasa hualpatucro,female,1791,1799,mother,3,3
+HP-00000367,FCL2-000190,manuela cuchu,female,1791,1798,mother,3,3
+HP-00000436,FCL2-000228,estephania canto,female,1792,1794,mother,2,2
+HP-00000467,FCL2-000244,dominga hualpatucro,female,1792,1798,mother,2,2
+HP-00000478,FCL2-000249,leon huamani,male,1792,1815,father,2,2
+HP-00000486,FCL2-000253,gregoria huamani,female,1792,1797,mother,4,4
+HP-00000498,FCL2-011549,juana rodrigues,female,1792,1816,baptized | wife,2,2
+HP-00000499,FCL2-000260,pedro rodrigues,male,1792,1816,father | wife_father,2,2
+HP-00000508,FCL2-000265,maria huamani,female,1792,1815,mother,3,3
+HP-00000526,FCL2-012143,eugenia barrientos,female,1792,1820,baptized | wife,2,2
+HP-00000536,FCL2-000276,bonifacia hualpatucro,female,1792,1797,mother,2,2
+HP-00000542,FCL2-011929,gabriel nolasco,male,1792,1819,baptized | husband,2,2
+HP-00000563,FCL2-000291,theodora alarcon,female,1792,1795,mother,2,2
+HP-00000577,FCL2-000299,antonio chumbile,male,1792,1794,father,2,2
+HP-00000595,FCL2-000308,bibiana ramos,female,1792,1817,mother | wife_mother,2,2
+HP-00000598,FCL2-000310,miguel sanches,male,1792,1800,father,2,2
+HP-00000655,FCL2-000337,juliana chinchai,female,1792,1793,mother,2,2
+HP-00000658,FCL2-000339,juan quispe,male,1792,1799,father,3,3
+HP-00000659,FCL2-000339,cecilia champa,female,1792,1799,mother,3,3
+HP-00000681,FCL2-000351,pablo ramos,male,1792,1794,father,2,2
+HP-00000682,FCL2-000351,ysidora asto,female,1792,1794,mother,2,2
+HP-00000697,FCL2-000359,eugenio condori,male,1792,1810,father,4,4
+HP-00000745,FCL2-000382,bernardo poma,male,1792,1797,father,2,2
+HP-00000791,FCL2-012094,susana hermosa,female,1792,1820,baptized | wife,2,2
+HP-00000792,FCL2-000405,juan hermosa,male,1792,1820,father | wife_father,2,2
+HP-00000802,FCL2-012266,andres llacsamanta,male,1792,1821,father | wife_father,2,2
+HP-00000839,FCL2-000431,nicolas cruz,male,1793,1797,father,4,4
+HP-00000840,FCL2-000431,juana cuchu,female,1793,1797,mother,4,4
+HP-00000844,FCL2-000433,faustina palomino,female,1793,1808,mother,2,2
+HP-00000854,FCL2-000439,rudecindo ramires,male,1793,1796,father,2,2
+HP-00000872,FCL2-000448,manuel perez,male,1793,1793,baptized,2,2
+HP-00000873,FCL2-000448,nolberto perez,male,1793,1793,father,2,2
+HP-00000874,FCL2-000448,dominga canto,female,1793,1793,mother,2,2
+HP-00000900,FCL2-000461,casimiro lopes,male,1793,1798,father,2,2
+HP-00000908,FCL2-012356,yldefonso huamani,male,1793,1796,father,2,2
+HP-00000909,FCL2-012356,francisca gavilan,female,1793,1823,husband_mother | mother,3,3
+HP-00000916,FCL2-000468,mariano calataiu,male,1793,1799,father,2,2
+HP-00000917,FCL2-000468,gabriela condori,female,1793,1799,mother,2,2
+HP-00000955,FCL2-000488,santos,male,1793,1795,father,2,2
+HP-00000956,FCL2-000488,paula quispe,female,1793,1795,mother,2,2
+HP-00000968,FCL2-000493,maria cuchu,female,1793,1807,mother,4,4
+HP-00000995,FCL2-000506,mariano guamani,male,1793,1806,father,2,2
+HP-00000996,FCL2-000506,maria tito,female,1793,1806,mother,2,2
+HP-00001071,FCL2-000543,antonio ramos,male,1793,1799,father,4,4
+HP-00001072,FCL2-000543,petrona quispe,female,1793,1799,mother,4,4
+HP-00001080,FCL2-000547,francisca paucar,female,1793,1811,mother,4,4
+HP-00001092,FCL2-000553,maria lucana,female,1793,1808,mother,4,4
+HP-00001107,FCL2-000561,carlos canto,male,1793,1799,father,3,3
+HP-00001111,FCL2-000563,mariano robles,male,1794,1797,father,2,2
+HP-00001112,FCL2-000563,toribia coyllo,female,1794,1797,mother,2,2
+HP-00001120,FCL2-000567,norverta ccoyllo,female,1794,1794,mother,2,2
+HP-00001132,FCL2-000573,eugenia quispe,female,1794,1799,mother,3,3
+HP-00001150,FCL2-000582,maria manuela barrientos,female,1794,1794,baptized,2,2
+HP-00001152,FCL2-000582,norverta poma,female,1794,1797,mother,3,3
+HP-00001166,FCL2-000589,agustin sanchez,male,1794,1809,father,4,4
+HP-00001174,FCL2-000593,silverio barrientos,male,1794,1797,father,2,2
+HP-00001175,FCL2-000593,paula chumbili,female,1794,1797,mother,2,2
+HP-00001218,FCL2-000614,lucia sanchez,female,1794,1797,mother,2,2
+HP-00001237,FCL2-000622,damaso canto,male,1794,1797,father,3,3
+HP-00001246,FCL2-000626,agustina guamani,female,1794,1794,mother,2,2
+HP-00001261,FCL2-000633,pedro guauya,male,1794,1795,father,2,2
+HP-00001269,FCL2-000636,thomas alvaro,male,1794,1796,father,2,2
+HP-00001270,FCL2-000636,thomasa chumbili,female,1794,1796,mother,2,2
+HP-00001348,FCL2-000673,pasquala poma,female,1794,1823,baptized | wife,2,2
+HP-00001349,FCL2-000674,juan poma,male,1794,1823,father | wife_father,3,3
+HP-00001350,FCL2-000674,cayetana quispe,female,1794,1797,mother,2,2
+HP-00001371,FCL2-000684,ambrosio ortiz,male,1794,1797,father,2,2
+HP-00001372,FCL2-000684,susana ramirez,female,1794,1797,mother,2,2
+HP-00001479,FCL2-000736,ylaria urbano,female,1794,1818,mother | wife_mother,2,2
+HP-00001496,FCL2-011901,nicolasa urbano,female,1794,1819,baptized | wife,2,2
+HP-00001531,FCL2-000759,christoval gualpatucro,male,1795,1795,father,2,2
+HP-00001532,FCL2-000759,maria echacaya,female,1795,1795,mother,2,2
+HP-00001543,FCL2-000764,pablo cruz,male,1795,1798,father,2,2
+HP-00001544,FCL2-000764,magdalena quispe,female,1795,1798,mother,2,2
+HP-00001563,FCL2-000773,nicolas ayquipa,male,1795,1797,father,2,2
+HP-00001564,FCL2-000773,estefa condori,female,1795,1797,mother,2,2
+HP-00001567,FCL2-000775,simon espinosa,male,1795,1809,father,5,5
+HP-00001568,FCL2-000775,carmina palomino,female,1795,1809,mother,5,5
+HP-00001625,FCL2-000803,alejo echacaya,male,1795,1798,father,2,2
+HP-00001645,FCL2-000812,joseph xavier,male,1795,1798,father,2,2
+HP-00001646,FCL2-000812,cayetana paucar,female,1795,1798,mother,2,2
+HP-00001654,FCL2-000816,victoria chumbili,female,1795,1797,mother,4,4
+HP-00001660,FCL2-011643,petrona gomes,female,1795,1817,baptized | wife,2,2
+HP-00001661,FCL2-011643,mariano gomes,male,1795,1817,father | wife_father,2,2
+HP-00001662,FCL2-011643,ysavel peres,female,1795,1817,mother | wife_mother,2,2
+HP-00001665,FCL2-000821,blas palomino,male,1795,1797,father,2,2
+HP-00001666,FCL2-000821,petrona garcia,female,1795,1797,mother,2,2
+HP-00001742,FCL2-000855,mathias condori,male,1795,1797,father,2,2
+HP-00001766,FCL2-001368,atanasio sanchez,male,1795,1798,father,2,2
+HP-00001782,FCL2-000872,casimira nolasco,female,1795,1808,mother,3,3
+HP-00001823,FCL2-000893,joseph paucar,male,1795,1797,father,2,2
+HP-00001824,FCL2-000893,josepha yunca callo,female,1795,1797,mother,2,2
+HP-00001835,FCL2-000899,felipe coyllo,male,1795,1796,father,2,2
+HP-00001884,FCL2-000922,cathalina huarcaya,female,1795,1814,mother,3,3
+HP-00001915,FCL2-000937,ciprian quispe,male,1795,1797,father,2,2
+HP-00001951,FCL2-000953,paula echacaya,female,1795,1797,mother,2,2
+HP-00001953,FCL2-011876,dionisia peres,female,1795,1819,baptized | wife,2,2
+HP-00001954,FCL2-000955,guillermo peres,male,1795,1819,father | wife_father,2,2
+HP-00001958,FCL2-000958,santos manco,male,1795,1797,father,2,2
+HP-00001962,FCL2-000960,elias ramirez,male,1796,1797,father,2,2
+HP-00001977,FCL2-011693,marcelo cuchu,male,1796,1817,baptized | husband,2,2
+HP-00002005,FCL2-000980,benito joseph tipe,male,1796,1797,father,2,2
+HP-00002010,FCL2-000982,dominga huamani,female,1796,1797,mother,2,2
+HP-00002013,FCL2-000984,thomas manco,male,1796,1797,father,2,2
+HP-00002014,FCL2-000984,polonia gavilan,female,1796,1797,mother,2,2
+HP-00002028,FCL2-011901,blas espinosa,male,1796,1819,baptized | husband,2,2
+HP-00002030,FCL2-011901,sebastiana huauya,female,1796,1819,husband_mother | mother,2,2
+HP-00002037,FCL2-000993,christoval urbano,male,1796,1819,father | husband_father,2,2
+HP-00002053,FCL2-001001,alverto roque,male,1796,1798,father,2,2
+HP-00002054,FCL2-001001,michaela sanchez,female,1796,1798,mother,2,2
+HP-00002080,FCL2-001014,ventura palomino,female,1796,1797,mother,2,2
+HP-00002126,FCL2-001035,theodoro huaranca,male,1796,1798,father,2,2
+HP-00002130,FCL2-001036,christoval coyllo,male,1796,1799,father,2,2
+HP-00002131,FCL2-001036,maria hualpatucro,female,1796,1799,mother,2,2
+HP-00002195,FCL2-011741,juan roque,male,1796,1818,baptized | husband,2,2
+HP-00002196,FCL2-001066,pablo roque,male,1796,1818,father | husband_father,2,2
+HP-00002232,FCL2-001083,manuel peralta,male,1796,1801,father,3,3
+HP-00002233,FCL2-001083,maria cordova,female,1796,1801,mother,3,3
+HP-00002259,FCL2-001096,ygnacio condori,male,1796,1805,father,4,4
+HP-00002264,FCL2-001098,maria pisarro,female,1796,1810,mother,3,3
+HP-00002287,FCL2-001108,julian chinchai,male,1796,1804,father,3,3
+HP-00002340,FCL2-011818,bibiana quispe,female,1796,1818,baptized | wife,2,2
+HP-00002348,FCL2-012088,eulalia antay,female,1796,1820,baptized | wife,2,2
+HP-00002349,FCL2-012088,bonifacio antay,male,1796,1820,father | wife_father,3,3
+HP-00002350,FCL2-012088,agueda huamani,female,1796,1820,mother | wife_mother,3,3
+HP-00002401,FCL2-001159,romualdo urbano,male,1797,1804,father,3,3
+HP-00002402,FCL2-001159,lucia asto,female,1797,1804,mother,3,3
+HP-00002415,FCL2-011827,sebastian arango,male,1797,1819,baptized | husband,2,2
+HP-00002416,FCL2-001167,juan arango,male,1797,1819,father | husband_father,4,4
+HP-00002417,FCL2-001167,paula achamisa,female,1797,1816,mother,3,3
+HP-00002445,FCL2-001177,felipa cruz,female,1797,1801,mother,3,3
+HP-00002456,FCL2-001183,alfonso palomino,male,1797,1811,father,4,4
+HP-00002457,FCL2-001183,dominga taquiri,female,1797,1811,mother,4,4
+HP-00002465,FCL2-001186,petrona vilca,female,1797,1814,mother,4,4
+HP-00002479,FCL2-001192,francisco huauya,male,1797,1807,father,2,2
+HP-00002604,FCL2-000673,gregorio condori,male,1797,1823,baptized | husband,2,2
+HP-00002655,FCL2-012378,alverto guamani,male,1797,1823,baptized | husband,2,2
+HP-00002717,FCL2-001296,domingo cruz,male,1797,1815,father,4,4
+HP-00002718,FCL2-001296,sebastiana condori,female,1797,1815,mother,4,4
+HP-00002791,FCL2-001324,mariano llacsamanta,male,1797,1814,father,2,2
+HP-00002792,FCL2-001324,luisa cruz,female,1797,1814,mother,2,2
+HP-00002888,FCL2-001365,gertrudis torres,female,1798,1812,mother,2,2
+HP-00003003,FCL2-001417,evaristo quispe,male,1798,1799,baptized,2,2
+HP-00003011,FCL2-001421,maria santa cruz,female,1798,1799,baptized,2,2
+HP-00003012,FCL2-001421,damian cruz,male,1798,1809,father,3,3
+HP-00003013,FCL2-001421,antonia nolasco,female,1798,1809,mother,3,3
+HP-00003015,FCL2-001423,matheo palomino,male,1798,1799,baptized,2,2
+HP-00003019,FCL2-000543,blacina ramos,female,1799,1799,baptized,2,2
+HP-00003023,FCL2-001426,theresa luca,female,1799,1799,baptized,2,2
+HP-00003025,FCL2-001426,ylaria ramos,female,1799,1799,mother,2,2
+HP-00003028,FCL2-001427,manuel rojas,male,1799,1820,father | husband_father,2,2
+HP-00003134,FCL2-001468,ynes condori,female,1799,1800,baptized,2,2
+HP-00003136,FCL2-001468,victoria sanches,female,1799,1800,mother,2,2
+HP-00003159,FCL2-001478,manuela nolasco,female,1799,1809,mother,2,2
+HP-00003189,FCL2-011680,rosa palomino,female,1799,1817,baptized | wife,2,2
+HP-00003243,FCL2-001511,damiana guamani,female,1800,1803,mother,2,2
+HP-00003405,FCL2-001591,francisca pauccar,female,1801,1808,mother,2,2
+HP-00003435,FCL2-001606,luis cuevas,male,1801,1809,father,2,2
+HP-00003440,FCL2-001608,maria taquiri,female,1801,1803,mother,2,2
+HP-00003488,FCL2-012075,blacina huauya,female,1801,1820,baptized | wife,2,2
+HP-00003492,FCL2-012494,maria chinchay,female,1801,1823,baptized | wife,2,2
+HP-00003516,FCL2-011978,petrona paucar,female,1801,1819,baptized | wife,2,2
+HP-00003518,FCL2-001643,maria cucho,female,1801,1810,mother,3,3
+HP-00003544,FCL2-001657,dominga guamani,female,1802,1803,mother,2,2
+HP-00003570,FCL2-001670,santos flores,male,1802,1812,father,4,4
+HP-00003571,FCL2-001670,pasquala gutierres,female,1802,1812,mother,4,4
+HP-00003681,FCL2-012410,pablo gavilan,male,1803,1823,baptized | husband,2,2
+HP-00003892,FCL2-001828,tomasa barrientos,female,1804,1809,mother,3,3
+HP-00003950,FCL2-001857,bacilio raymi,male,1804,1808,father,2,2
+HP-00003951,FCL2-001857,victoria sanchez,female,1804,1808,mother,2,2
+HP-00003986,FCL2-001874,antonio polanco,male,1804,1807,father,2,2
+HP-00003987,FCL2-001874,marsela sanches,female,1804,1807,mother,2,2
+HP-00004054,FCL2-001906,pasqual huauya,male,1805,1811,father,2,2
+HP-00004364,FCL2-002060,benturana bautista,female,1807,1809,mother,2,2
+HP-00004398,FCL2-002078,gregoria guamani,female,1807,1808,mother,2,2
+HP-00004405,FCL2-002082,nicolas roque,male,1807,1809,father,2,2
+HP-00004406,FCL2-002082,antonia quispe,female,1807,1809,mother,2,2
+HP-00004433,FCL2-002095,jasinto baptista,male,1807,1810,father,2,2
+HP-00004434,FCL2-002095,liberata guamani,female,1807,1810,mother,2,2
+HP-00004470,FCL2-002111,thomasa quispe,female,1807,1815,mother,4,4
+HP-00004590,FCL2-002171,cayetano cruz,male,1808,1808,father,2,2
+HP-00004591,FCL2-002171,manuela llacsamanta,female,1808,1808,mother,2,2
+HP-00004595,FCL2-002173,juana ramos,female,1808,1812,mother,3,3
+HP-00004602,FCL2-002176,ciprian cividola,male,1808,1815,father,3,3
+HP-00004603,FCL2-002176,gabriela huamani,female,1808,1815,mother,3,3
+HP-00004606,FCL2-002178,andres cividola,male,1808,1816,father,2,2
+HP-00004626,FCL2-002188,manuela ortiz,female,1808,1812,mother,3,3
+HP-00004636,FCL2-002193,crisostomo carbajal,male,1808,1814,father,3,3
+HP-00004641,FCL2-002195,manuela condori,female,1808,1815,mother,3,3
+HP-00004661,FCL2-002205,dominga damian,female,1808,1809,mother,2,2
+HP-00004665,FCL2-002207,marcela ramos,female,1808,1813,mother,2,2
+HP-00004668,FCL2-012482,norverto peres,male,1808,1823,father | husband_father,2,2
+HP-00004680,FCL2-002213,felipe guachaca,male,1808,1830,father,3,3
+HP-00004689,FCL2-002217,leandra poma,female,1808,1815,mother,2,2
+HP-00004717,FCL2-002230,gregoria sanchez,female,1808,1809,mother,2,2
+HP-00004720,FCL2-002232,juan huamani,male,1808,1813,father,2,2
+HP-00004744,FCL2-002243,jacinto sanches,male,1808,1813,father,2,2
+HP-00004835,FCL2-002285,ancelmo abalos,male,1808,1813,father,3,3
+HP-00004844,FCL2-002289,tadea bautista,female,1808,1811,mother,2,2
+HP-00004859,FCL2-002297,getrudis torres,female,1808,1811,mother,3,3
+HP-00004905,FCL2-002319,nicolas ynca,male,1808,1812,father,2,2
+HP-00004937,FCL2-002334,paula paucar,female,1809,1810,mother,2,2
+HP-00004961,FCL2-002344,alexandra solis,female,1809,1815,mother,3,3
+HP-00004992,FCL2-002358,marcelo huamani,male,1809,1814,father,2,2
+HP-00004993,FCL2-002358,nieves quispe,female,1809,1814,mother,2,2
+HP-00005004,FCL2-002364,dionicia coyllo,female,1809,1815,mother,5,5
+HP-00005099,FCL2-002409,bictoria urbano,female,1809,1811,mother,2,2
+HP-00005186,FCL2-002450,manuela lupa,female,1809,1820,mother | wife_mother,2,2
+HP-00005201,FCL2-012609,luis llacsamanta,male,1809,1824,father | wife_father,2,2
+HP-00005329,FCL2-002520,manuel rayme,male,1810,1810,father,2,2
+HP-00005333,FCL2-002522,mariano palomino,male,1810,1812,father,2,2
+HP-00005334,FCL2-002522,rosa espilco,female,1810,1812,mother,2,2
+HP-00005342,FCL2-002525,polonia huajardo,female,1810,1816,mother,3,3
+HP-00005344,FCL2-002527,benito condori,male,1810,1810,baptized,2,2
+HP-00005345,FCL2-002527,lorenso condori,male,1810,1811,father,3,3
+HP-00005346,FCL2-002527,maria cruz,female,1810,1811,mother,3,3
+HP-00005454,FCL2-002572,josefa huamani,female,1810,1814,mother,2,2
+HP-00005485,FCL2-002585,damaso ramos,male,1810,1813,father,2,2
+HP-00005486,FCL2-002585,melchora huachaca,female,1810,1813,mother,2,2
+HP-00005494,FCL2-002588,rafaela sanches,female,1810,1815,mother,2,2
+HP-00005517,FCL2-002599,pasqual guauya,male,1810,1811,father,2,2
+HP-00005568,FCL2-002624,eulalia paucar,female,1810,1810,mother,2,2
+HP-00005572,FCL2-002626,barbara orosco,female,1810,1813,mother,2,2
+HP-00005588,FCL2-002634,juana ontiberos,female,1810,1810,mother,2,2
+HP-00005690,FCL2-002678,marsela ramos,female,1811,1828,mother,4,4
+HP-00005698,FCL2-002681,ana ayme,female,1811,1813,mother,2,2
+HP-00005824,FCL2-002739,juan de dios llamocca,male,1811,1814,father,2,2
+HP-00005825,FCL2-002739,bartola huamani,female,1811,1814,mother,2,2
+HP-00005829,FCL2-002741,maria lisarve,female,1811,1815,mother,2,2
+HP-00005889,FCL2-002770,teresa bentura,female,1812,1812,baptized,2,2
+HP-00005890,FCL2-002770,mateo bentura,male,1812,1812,father,2,2
+HP-00005909,FCL2-002780,roque alvaro,male,1812,1829,father,3,3
+HP-00005910,FCL2-002780,francisca cruz,female,1812,1829,mother,3,3
+HP-00005926,FCL2-002788,ysabel llacsamanta,female,1812,1814,mother,2,2
+HP-00005938,FCL2-002793,lucia huaya,female,1812,1815,mother,2,2
+HP-00005969,FCL2-013375,gabriel barrientos,male,1812,1816,father,2,2
+HP-00005970,FCL2-013375,casimira tito,female,1812,1833,husband_mother | mother,3,3
+HP-00005984,FCL2-013766,asencio asto,male,1812,1838,baptized | husband,2,2
+HP-00006019,FCL2-002828,marcelo collaquispe,male,1812,1814,father,2,2
+HP-00006036,FCL2-002835,petrona chumbili,female,1812,1833,mother,4,4
+HP-00006090,FCL2-002862,jose quispe,male,1812,1814,father,2,2
+HP-00006140,FCL2-002882,santos quispe,male,1812,1815,father,3,3
+HP-00006141,FCL2-002882,juliana huallpatuiro,female,1812,1815,mother,3,3
+HP-00006179,FCL2-002900,matheo condori,male,1813,1814,father,2,2
+HP-00006211,FCL2-002915,polonia huamani,female,1813,1814,mother,2,2
+HP-00006249,FCL2-002934,celestino sanches,male,1813,1813,baptized,2,2
+HP-00006250,FCL2-002935,jasinto sanches,male,1813,1815,father,2,2
+HP-00006269,FCL2-002945,julian peres,male,1813,1830,father,4,4
+HP-00006270,FCL2-002945,monica abalos,female,1813,1830,mother,4,4
+HP-00006289,FCL2-002953,yldefonso fernandes,male,1813,1815,father,3,3
+HP-00006290,FCL2-002953,thomasa huallpatuiro,female,1813,1815,mother,3,3
+HP-00006393,FCL2-003001,eusebia ramos,female,1813,1828,mother,2,2
+HP-00006479,FCL2-003043,felipe sanches,male,1814,1827,father,2,2
+HP-00006480,FCL2-003043,juana nolasco,female,1814,1827,mother,2,2
+HP-00006490,FCL2-013710,julian cruz,male,1814,1837,baptized | husband,2,2
+HP-00006491,FCL2-003048,custodio cruz,male,1814,1837,father | husband_father,2,2
+HP-00006511,FCL2-003058,cecilio lopa,male,1814,1815,father,2,2
+HP-00006667,FCL2-003127,francisco llacsamanta,male,1814,1814,father,2,2
+HP-00006678,FCL2-013359,bernarda chinchay,female,1814,1832,baptized | wife,2,2
+HP-00006814,FCL2-003194,felix hayme,male,1814,1814,baptized,2,2
+HP-00006877,FCL2-008139,narciso sanches,male,1815,1871,baptized | father | husband,5,5
+HP-00006878,FCL2-003225,julian sanches,male,1815,1838,father | husband_father,3,3
+HP-00006879,FCL2-003225,cayetana huaya,female,1815,1815,mother,2,2
+HP-00006885,FCL2-003229,hypolito sanches,male,1815,1816,father,3,3
+HP-00006886,FCL2-003229,micayla huamani,female,1815,1816,mother,3,3
+HP-00006928,FCL2-003246,paula quispe,female,1815,1836,baptized | wife,2,2
+HP-00007002,FCL2-013647,mariano sanches,male,1815,1836,baptized | husband,2,2
+HP-00007019,FCL2-003288,chrisostomo urbano,male,1815,1833,father,3,3
+HP-00007027,FCL2-003292,leandro hayme,male,1815,1816,father,2,2
+HP-00007028,FCL2-003292,eustaquia espinosa,female,1815,1816,mother,2,2
+HP-00007054,FCL2-013634,domingo chalco,male,1815,1835,baptized | husband,2,2
+HP-00007062,FCL2-003308,pio huaca,male,1815,1815,baptized,2,2
+HP-00007118,FCL2-003334,felipe huachaca,male,1815,1828,father,3,3
+HP-00007130,FCL2-003339,maria suica,female,1815,1815,mother,2,2
+HP-00007467,FCL2-003495,custodio huarancca,male,1825,1828,father,2,2
+HP-00007472,FCL2-003497,zusana hermosilla,female,1825,1830,mother,2,2
+HP-00007491,FCL2-003507,eustaquio ccoyllo,male,1825,1827,father,2,2
+HP-00007492,FCL2-003507,pascuala quispe,female,1825,1827,mother,2,2
+HP-00007499,FCL2-003511,tomas ychajaya,male,1825,1827,father,2,2
+HP-00007564,FCL2-003541,felipe tito,male,1826,1832,father,2,2
+HP-00007607,FCL2-017146,tiburcio ramos,male,1826,1862,father | wife_father,2,2
+HP-00007620,FCL2-003570,jose quispe,male,1826,1846,baptized | husband,2,2
+HP-00007642,FCL2-003581,evarista ccoyllo,female,1826,1829,mother,3,3
+HP-00007721,FCL2-003616,nasario flores,male,1826,1828,father,2,2
+HP-00007741,FCL2-003625,pascuala poma,female,1825,1830,mother,3,3
+HP-00007793,FCL2-003651,petrona chalco,female,1827,1829,mother,2,2
+HP-00007799,FCL2-016679,petrona quispe,female,1827,1847,baptized | wife,2,2
+HP-00007804,FCL2-003657,domingo sevidola,male,1827,1828,father,2,2
+HP-00007805,FCL2-003657,leandra bautista,female,1827,1828,mother,2,2
+HP-00007843,FCL2-012591,estefa nunes,female,1824,1830,mother | wife,4,4
+HP-00007853,FCL2-003682,dionicio cucho,male,1827,1829,father,2,2
+HP-00007854,FCL2-003682,nicolasa ramos,female,1827,1829,mother,2,2
+HP-00007869,FCL2-003690,julian sivi,male,1825,1827,father,2,2
+HP-00007877,FCL2-003693,rumualdo poma,male,1827,1829,father | husband,2,2
+HP-00007878,FCL2-003693,margarita sanches,female,1827,1829,mother | wife,2,2
+HP-00007885,FCL2-017196,pablo cruz,male,1827,1862,father | wife_father,2,2
+HP-00007906,FCL2-003706,luisa huallpatuiro,female,1827,1827,mother | wife,2,2
+HP-00007921,FCL2-003714,siprian damian,male,1827,1829,father,2,2
+HP-00007929,FCL2-016540,andres ccanto,male,1827,1846,father | husband_father,2,2
+HP-00007981,FCL2-003741,alverto huamani,male,1825,1827,father,2,2
+HP-00007982,FCL2-003741,maria zuica,female,1825,1827,mother,2,2
+HP-00007986,FCL2-003743,torivia huauya,female,1827,1829,mother,2,2
+HP-00007997,FCL2-003749,mariano condori,male,1827,1829,father,2,2
+HP-00007998,FCL2-003749,maria gonzales,female,1827,1829,mother,2,2
+HP-00008006,FCL2-003753,petrona vega,female,1827,1829,mother,2,2
+HP-00008022,FCL2-003760,casimira ramires,female,1828,1830,mother,2,2
+HP-00008069,FCL2-003784,martina condori,female,1828,1846,deceased | mother,4,4
+HP-00008076,FCL2-003788,jose bacas,male,1824,1830,father,3,3
+HP-00008077,FCL2-003788,francisca tito,female,1824,1830,mother,3,3
+HP-00008084,FCL2-003792,mariano huamani,male,1828,1830,father,2,2
+HP-00008088,FCL2-003794,felis tito,male,1823,1833,father | husband,4,4
+HP-00008127,FCL2-003810,melchor huauya,male,1828,1838,father,3,3
+HP-00008128,FCL2-003810,magdalena barrientos,female,1828,1838,mother,3,3
+HP-00008176,FCL2-003834,vibiana quispe,female,1828,1832,mother,3,3
+HP-00008191,FCL2-003842,felisyana huamani,female,1828,1830,mother,2,2
+HP-00008230,FCL2-003862,ana bustillos,female,1828,1829,mother,2,2
+HP-00008232,FCL2-003864,manuela urbano,female,1828,1829,baptized,2,2
+HP-00008236,FCL2-003866,manuel chaves,male,1828,1829,baptized,2,2
+HP-00008238,FCL2-003866,encarna achamisa,female,1828,1829,mother,2,2
+HP-00008293,FCL2-017023,marcelo huamani,male,1830,1859,baptized | husband,2,2
+HP-00008334,FCL2-003914,leandra cusi,female,1828,1831,mother,2,2
+HP-00008402,FCL2-003946,tomas chinchay,male,1824,1825,father | husband,2,2
+HP-00008403,FCL2-003946,manuela carrion,female,1824,1825,mother | wife,2,2
+HP-00008450,FCL2-003969,paulino chaves,male,1824,1830,father,2,2
+HP-00008451,FCL2-003969,romualda roxas,female,1824,1830,mother,2,2
+HP-00008463,FCL2-003975,magdalena perez,female,1824,1849,mother,2,2
+HP-00008482,FCL2-003985,eustaquio llacsamanta,male,1824,1828,father,2,2
+HP-00008487,FCL2-003987,maria lizarve,female,1824,1829,mother,2,2
+HP-00008530,FCL2-004007,marsela osorio,female,1825,1826,mother | wife,3,3
+HP-00008590,FCL2-004037,manuela condori,female,1825,1825,baptized,2,2
+HP-00008679,FCL2-004080,jose condori,male,1828,1829,baptized,2,2
+HP-00008683,FCL2-004082,josefa tito,female,1828,1829,baptized,2,2
+HP-00008687,FCL2-004085,jose quispe,male,1828,1829,baptized,2,2
+HP-00008691,FCL2-003581,josefa sanches,female,1828,1829,baptized,2,2
+HP-00008695,FCL2-004089,jose quispe,male,1828,1829,baptized,2,2
+HP-00008703,FCL2-004095,josefa condori,female,1828,1829,baptized,2,2
+HP-00008708,FCL2-004098,agustina huamani,female,1828,1829,mother,2,2
+HP-00008762,FCL2-004122,marcela osorio,female,1829,1831,mother,2,2
+HP-00008768,FCL2-004126,enrrique poma,male,1829,1829,baptized,2,2
+HP-00008769,FCL2-004126,rumaldo poma,male,1829,1829,father,2,2
+HP-00008773,FCL2-004128,apolinario huayhua,male,1829,1832,father,2,2
+HP-00008789,FCL2-004135,tomas poma,male,1829,1847,father | husband,3,3
+HP-00008790,FCL2-004135,mauricia quispe,female,1829,1847,mother | wife,3,3
+HP-00008793,FCL2-004137,luciano quispe,male,1829,1847,father | wife_father,3,3
+HP-00008794,FCL2-004137,maria ramos,female,1829,1831,mother,2,2
+HP-00008801,FCL2-004141,eustaquio quispe,male,1829,1847,father,2,2
+HP-00008802,FCL2-004141,ursula ccoyllo,female,1829,1847,mother,2,2
+HP-00008910,FCL2-016941,juan barrientos,male,1829,1856,baptized | husband,2,2
+HP-00008911,FCL2-016941,tomas barrientos,male,1829,1856,father | husband_father,2,2
+HP-00008912,FCL2-016941,bibiana huarcaya,female,1829,1856,husband_mother | mother,2,2
+HP-00008919,FCL2-004196,francisco lonasco,male,1829,1831,father,2,2
+HP-00008920,FCL2-004196,martina alvaro,female,1829,1831,mother,2,2
+HP-00008944,FCL2-004206,petrona pauccar,female,1829,1831,mother,2,2
+HP-00008973,FCL2-016612,maria huamani,female,1829,1846,baptized | wife,2,2
+HP-00008974,FCL2-016612,andres huamani,male,1829,1846,father | wife_father,2,2
+HP-00008975,FCL2-016612,ursula nunes,female,1829,1846,mother | wife_mother,2,2
+HP-00008985,FCL2-004224,andres roca,male,1829,1829,father,2,2
+HP-00008986,FCL2-004224,petrona aybar,female,1829,1829,mother,2,2
+HP-00009048,FCL2-004252,mariano achamisa,male,1830,1838,father,2,2
+HP-00009049,FCL2-004252,francisca quispe,female,1830,1838,mother,2,2
+HP-00009103,FCL2-004278,hermenegildo ramos,male,1830,1832,father,2,2
+HP-00009104,FCL2-004278,paula antay,female,1830,1832,mother,2,2
+HP-00009123,FCL2-004286,pasqual cruz,male,1830,1830,father,2,2
+HP-00009124,FCL2-004286,ysabel condori,female,1830,1830,mother,2,2
+HP-00009219,FCL2-016829,victoria condori,female,1830,1852,husband_mother | mother,2,2
+HP-00009221,FCL2-004567,manuel ramos,male,1830,1833,baptized,2,2
+HP-00009258,FCL2-021175,francisco santiago,male,1830,1864,father,5,5
+HP-00009279,FCL2-004355,ynes ayme,female,1830,1852,mother | wife_mother,2,2
+HP-00009281,FCL2-004357,luis huarancca,male,1830,1852,baptized | husband,2,2
+HP-00009330,FCL2-004378,manuel urbano,male,1830,1837,father,2,2
+HP-00009331,FCL2-004378,faustina nunes,female,1830,1837,mother,2,2
+HP-00009358,FCL2-004392,pedro condori,male,1830,1850,father,2,2
+HP-00009359,FCL2-004392,manuela tito,female,1830,1850,mother,2,2
+HP-00009432,FCL2-004426,manuela quispe,female,1831,1847,baptized | wife,2,2
+HP-00009465,FCL2-004440,pedro sanches,male,1831,1838,father,2,2
+HP-00009466,FCL2-004440,juliana guamani,female,1831,1838,mother,2,2
+HP-00009500,FCL2-008890,mariano sanches,male,1831,1860,baptized | father | husband,3,3
+HP-00009558,FCL2-004485,cecilia calatayud,female,1833,1867,husband_mother | mother,2,2
+HP-00009641,FCL2-004522,alberto huamani,male,1832,1848,father,2,2
+HP-00009642,FCL2-004522,lorensa cusi,female,1832,1848,mother,2,2
+HP-00009692,FCL2-016813,cicilio ccanto,male,1833,1852,father | husband_father,2,2
+HP-00009695,FCL2-016594,juan sanches,male,1833,1846,baptized | husband,2,2
+HP-00009730,FCL2-021175,agustina santiago,female,1833,1833,baptized,2,2
+HP-00009859,FCL2-002835,maria santiago,female,1833,1833,baptized,2,2
+HP-00009915,FCL2-004646,antonio barrientos,male,1835,1871,deceased | father,3,3
+HP-00009916,FCL2-004646,gregoria romani,female,1835,1871,mother | wife,3,3
+HP-00009960,FCL2-004669,pablo gavilan,male,1834,1852,father,3,3
+HP-00009961,FCL2-004669,gregoria chinchay,female,1834,1852,mother,3,3
+HP-00010042,FCL2-004709,mariano leon,male,1837,1865,father,4,4
+HP-00010043,FCL2-004709,francisca palomino,female,1837,1865,mother,4,4
+HP-00010134,FCL2-004755,juana bega,female,1838,1838,mother,2,2
+HP-00010160,FCL2-004355,marcelo quispe,male,1838,1852,baptized | husband,2,2
+HP-00010277,FCL2-004823,sebastian huaraca,male,1837,1862,father | husband_father,6,6
+HP-00010370,FCL2-004868,estevan urbano,male,1894,1896,father,2,2
+HP-00010371,FCL2-004868,maria ccoyllo,female,1894,1896,mother,2,2
+HP-00010383,FCL2-004874,paula sanchez,female,1895,1896,mother,2,2
+HP-00010414,FCL2-004890,romualdo chinchay,male,1894,1900,father,3,3
+HP-00010415,FCL2-004890,agustina ramos,female,1894,1900,mother,3,3
+HP-00010434,FCL2-004900,jasinto cardenas,male,1891,1896,father,2,2
+HP-00010493,FCL2-004930,felix ccoillo,male,1888,1896,father,3,3
+HP-00010496,FCL2-016260,wenceslao pacheco,male,1896,1919,baptized | husband,2,2
+HP-00010554,FCL2-004959,juana ortiz,female,1895,1896,mother,2,2
+HP-00010558,FCL2-004961,petrona ramos,female,1891,1896,mother,2,2
+HP-00010577,FCL2-004971,casimiro serrano,male,1896,1896,father,2,2
+HP-00010578,FCL2-004971,bibiana fernandez,female,1896,1896,mother,2,2
+HP-00010585,FCL2-004974,julian tito,male,1892,1896,father,2,2
+HP-00010586,FCL2-004974,luisa saravia,female,1892,1896,mother,2,2
+HP-00010602,FCL2-004982,manuela huallpatuiro,female,1883,1899,mother,3,3
+HP-00010640,FCL2-005001,asencio ramos,male,1894,1897,father,2,2
+HP-00010644,FCL2-005003,pablo barrientos,male,1894,1902,father,3,3
+HP-00010645,FCL2-005003,cristina espinoza,female,1894,1902,mother,3,3
+HP-00010648,FCL2-005005,mariano vivanco,male,1897,1902,father,2,2
+HP-00010649,FCL2-005005,tomasa palomino,female,1897,1902,mother,2,2
+HP-00010668,FCL2-005015,mariano rodriguez,male,1889,1897,father,2,2
+HP-00010669,FCL2-005015,maximiliana gallegos,female,1889,1897,mother,2,2
+HP-00010693,FCL2-005027,tomasa huamani,female,1894,1897,mother,2,2
+HP-00010719,FCL2-015653,sofia romero,female,1897,1915,baptized | wife,2,2
+HP-00010720,FCL2-015653,daniel romero,male,1883,1915,father | wife_father,6,6
+HP-00010721,FCL2-015653,juana huamani,female,1883,1915,mother | wife_mother,6,6
+HP-00010740,FCL2-005050,santos santiago,male,1892,1897,father,3,3
+HP-00010741,FCL2-005050,asunta dias,female,1892,1897,mother,3,3
+HP-00010760,FCL2-005060,simon ramos,male,1889,1897,father,4,4
+HP-00010793,FCL2-005076,emilia siancas,female,1897,1899,mother,2,2
+HP-00010797,FCL2-005078,juliana ccantos,female,1897,1902,mother,3,3
+HP-00010812,FCL2-005085,domingo espinoza,male,1894,1897,father,3,3
+HP-00010821,FCL2-005088,jasinta vellido,female,1883,1897,mother,3,3
+HP-00010856,FCL2-005106,damaso vacas,male,1898,1901,father,2,2
+HP-00010857,FCL2-005106,maria palomino,female,1898,1901,mother,2,2
+HP-00010860,FCL2-019133,blas ynca,male,1891,1899,father | husband,4,4
+HP-00010899,FCL2-005124,pedro ccochachi,male,1895,1913,father | husband,3,3
+HP-00010922,FCL2-016344,luis cuevas,male,1899,1920,baptized | husband,2,2
+HP-00010924,FCL2-016344,feliciana cucho,female,1893,1920,husband_mother | mother,4,4
+HP-00010943,FCL2-005143,mariano ramos,male,1892,1902,father | husband,6,6
+HP-00010944,FCL2-005143,catalina santiago,female,1892,1902,mother | wife,6,6
+HP-00010971,FCL2-005156,severino molina,male,1899,1901,father,2,2
+HP-00010972,FCL2-005156,eujenia cornejo,female,1899,1901,mother,2,2
+HP-00011003,FCL2-005173,jose vivanco,male,1893,1900,father,2,2
+HP-00011004,FCL2-005173,antonia fuentes,female,1893,1900,mother,2,2
+HP-00011007,FCL2-005175,lucas espinosa,male,1882,1900,father,3,3
+HP-00011008,FCL2-005175,martina huamani,female,1882,1900,mother,3,3
+HP-00011016,FCL2-005179,espirita abalos,female,1895,1902,mother,3,3
+HP-00011035,FCL2-005189,jose flores,male,1889,1900,father,4,4
+HP-00011036,FCL2-005189,eustaquia santiago,female,1889,1900,mother,4,4
+HP-00011043,FCL2-014650,jose huamani,male,1900,1908,father | husband_father,2,2
+HP-00011047,FCL2-020260,mariano ramos,male,1900,1901,father | husband,2,2
+HP-00011048,FCL2-020260,evarista huamani,female,1900,1901,mother | wife,2,2
+HP-00011088,FCL2-005212,ynes palomino,female,1893,1900,mother,2,2
+HP-00011106,FCL2-005222,lorenzo roque,male,1900,1918,father,2,2
+HP-00011115,FCL2-005226,martina puma,female,1893,1900,mother,2,2
+HP-00011134,FCL2-005235,jose vivanco,male,1895,1900,father,2,2
+HP-00011135,FCL2-005235,bonifacia romero,female,1895,1900,mother,2,2
+HP-00011162,FCL2-005249,eugenio ortiz,male,1893,1901,father,2,2
+HP-00011181,FCL2-015783,simeon perez,male,1887,1917,father | husband_father,5,5
+HP-00011186,FCL2-005260,gabriela ramos,female,1889,1919,mother | wife_mother,5,5
+HP-00011190,FCL2-005262,luisa zotela,female,1896,1901,mother,2,2
+HP-00011228,FCL2-016212,benigna ramos,female,1901,1919,baptized | wife,2,2
+HP-00011245,FCL2-005290,angelo huarcaya,male,1901,1902,father | husband,2,2
+HP-00011261,FCL2-005298,pedro ramos,male,1884,1901,father,6,6
+HP-00011262,FCL2-005298,manuela vega,female,1884,1901,mother,6,6
+HP-00011277,FCL2-005306,silvestre quispe,male,1892,1901,father,2,2
+HP-00011278,FCL2-005306,gabriela vega,female,1892,1901,mother,2,2
+HP-00011298,FCL2-018378,francisca sanchez,female,1887,1913,mother | wife,3,3
+HP-00011365,FCL2-005346,fermin huamani,male,1866,1901,father,4,4
+HP-00011366,FCL2-005346,sinforosa ramos,female,1866,1901,mother,4,4
+HP-00011385,FCL2-005356,santiago chavez,male,1895,1901,father,2,2
+HP-00011386,FCL2-005356,concepcion huarcaya,female,1895,1901,mother,2,2
+HP-00011398,FCL2-005362,dionicia huamani,female,1887,1901,mother,3,3
+HP-00011404,FCL2-005366,francisca inca,female,1901,1901,baptized,2,2
+HP-00011405,FCL2-005366,blas inca,male,1901,1901,father,2,2
+HP-00011425,FCL2-020016,feliz ccoillo,male,1901,1901,father | husband,2,2
+HP-00011426,FCL2-020016,juana poma,female,1901,1901,mother | wife,2,2
+HP-00011500,FCL2-005411,marcelo sanchez,male,1893,1901,father,2,2
+HP-00011571,FCL2-005447,carmelo quispe,male,1895,1901,father,2,2
+HP-00011572,FCL2-005447,petronila poma,female,1895,1901,mother,2,2
+HP-00011734,FCL2-005526,celedonia ramos,female,1893,1902,mother,2,2
+HP-00011766,FCL2-005542,valentina lopez,female,1889,1902,mother,2,2
+HP-00011773,FCL2-020109,jose quispe,male,1901,1918,father | husband,3,3
+HP-00011852,FCL2-005584,juan ccoillo,male,1889,1902,father,2,2
+HP-00011922,FCL2-005619,agustin asto,male,1867,1902,baptized | father | husband,4,4
+HP-00011923,FCL2-005619,rafaela santiago,female,1895,1902,mother | wife,3,3
+HP-00012005,FCL2-005660,rudesindo leon,male,1893,1902,father,3,3
+HP-00012069,FCL2-020951,rufino quispe,male,1890,1902,father | husband,3,3
+HP-00012070,FCL2-020951,brijida ccoillo,female,1890,1902,mother | wife,3,3
+HP-00012108,FCL2-005707,brijida hualpatuero,female,1902,1902,baptized,2,2
+HP-00012199,FCL2-005748,justina huarancca,female,1889,1889,baptized | deceased,2,2
+HP-00012200,FCL2-005748,luis huarancca,male,1885,1889,father,3,3
+HP-00012201,FCL2-005748,francisca ochoa,female,1885,1889,mother,3,3
+HP-00012217,FCL2-005755,ysidora flores,female,1883,1894,mother,4,4
+HP-00012241,FCL2-005767,nicolasa gonzales,female,1889,1894,mother,3,3
+HP-00012243,FCL2-020877,simona condori,female,1889,1906,baptized | wife,2,2
+HP-00012249,FCL2-005770,alberta aime,female,1889,1889,mother,2,2
+HP-00012251,FCL2-005772,cecilia tito,female,1889,1889,baptized | deceased,2,2
+HP-00012256,FCL2-005774,fernando polanco,male,1889,1893,father,2,2
+HP-00012257,FCL2-005774,magdalena choccehuanca,female,1889,1893,mother,2,2
+HP-00012260,FCL2-005776,luis palomino,male,1889,1895,father,3,3
+HP-00012261,FCL2-005776,nasaria montero,female,1889,1895,mother,3,3
+HP-00012267,FCL2-005780,domingo huallpatuero,male,1889,1910,baptized | deceased,2,2
+HP-00012277,FCL2-005785,silvestra guillen,female,1889,1891,mother,2,2
+HP-00012288,FCL2-005790,simon cucho,male,1887,1902,father | husband,3,3
+HP-00012309,FCL2-005799,asuncion de la cruz,female,1889,1889,mother,2,2
+HP-00012321,FCL2-005805,bacilia llamocca,female,1885,1894,mother,4,4
+HP-00012337,FCL2-005813,vicenta huallpatuero,female,1889,1913,mother | wife,2,2
+HP-00012356,FCL2-005823,mariano echevarria,male,1889,1889,father | husband,2,2
+HP-00012363,FCL2-020440,antonia huamani,female,1889,1903,baptized | wife,2,2
+HP-00012373,FCL2-016090,candelaria cucho,female,1889,1919,husband_mother | mother,3,3
+HP-00012385,FCL2-005835,andrea sevilora,female,1888,1889,mother,2,2
+HP-00012387,FCL2-005260,monica champa,female,1889,1919,baptized | deceased | wife,4,4
+HP-00012392,FCL2-005838,leon ramos,male,1889,1891,deceased | father,2,2
+HP-00012393,FCL2-005838,hilaria sevilora,female,1889,1891,mother | wife,2,2
+HP-00012401,FCL2-005842,nicolasa sarabia,female,1889,1894,mother,2,2
+HP-00012435,FCL2-014918,victoria dias,female,1889,1910,baptized | wife,2,2
+HP-00012436,FCL2-014918,mariano dias,male,1889,1910,father | wife_father,2,2
+HP-00012437,FCL2-014918,santona quispe,female,1889,1910,mother | wife_mother,2,2
+HP-00012445,FCL2-005862,leocadia mancco,female,1889,1890,mother,2,2
+HP-00012480,FCL2-005877,francisco sanches,male,1866,1889,father,3,3
+HP-00012481,FCL2-005877,santona tito,female,1866,1889,mother,3,3
+HP-00012507,FCL2-005891,fulgencio barrientos,male,1889,1900,deceased | father,2,2
+HP-00012526,FCL2-005900,mariano bendezu,male,1889,1894,baptized | deceased,2,2
+HP-00012531,FCL2-005904,asunto marcacuzco,male,1889,1891,father,2,2
+HP-00012534,FCL2-020724,sixto chalco,male,1889,1905,baptized | husband,2,2
+HP-00012566,FCL2-005920,brijida polanco,female,1889,1890,baptized | deceased,2,2
+HP-00012567,FCL2-005921,santos polanco,male,1885,1890,father,3,3
+HP-00012568,FCL2-005921,concepcion quispe,female,1885,1889,mother,2,2
+HP-00012591,FCL2-005933,barbaron espinosa,male,1888,1889,father,2,2
+HP-00012608,FCL2-005940,maria chaves,female,1887,1892,mother,4,4
+HP-00012612,FCL2-005943,barbara oscco,female,1889,1891,mother,2,2
+HP-00012620,FCL2-005947,manuela cupe,female,1884,1916,deceased | mother | wife,5,5
+HP-00012627,FCL2-018556,santos condori,male,1888,1919,father | husband,4,4
+HP-00012628,FCL2-018556,juana quispe,female,1888,1919,deceased | mother | wife,4,4
+HP-00012635,FCL2-005954,natividad ramos,female,1889,1917,mother | wife,3,3
+HP-00012638,FCL2-005956,silvestre mejia,male,1888,1889,father,2,2
+HP-00012639,FCL2-005956,luisa vivanco,female,1888,1889,mother,2,2
+HP-00012642,FCL2-005958,tadeo huamani,male,1888,1889,father,2,2
+HP-00012643,FCL2-005958,ursula yacca,female,1888,1889,mother,2,2
+HP-00012675,FCL2-005974,ynocencia chaves,female,1889,1895,mother,2,2
+HP-00012678,FCL2-005976,marcelo damian,male,1883,1889,father,2,2
+HP-00012679,FCL2-005976,nicolasa urbano,female,1883,1889,mother,2,2
+HP-00012683,FCL2-005978,rafaela bacas,female,1889,1915,mother | wife,3,3
+HP-00012685,FCL2-005980,tomasa gavilan,female,1889,1910,baptized | wife,2,2
+HP-00012687,FCL2-005980,segunda llaccsamanta,female,1889,1910,mother | wife_mother,3,3
+HP-00012701,FCL2-021086,jesus mancco,unknown,1889,1907,baptized | wife,2,2
+HP-00012710,FCL2-022568,jacinto barrientos,male,1889,1915,deceased | father,3,3
+HP-00012711,FCL2-022568,clemencia huarcaya,female,1889,1915,mother | wife,3,3
+HP-00012713,FCL2-018445,estefa chinchay,female,1889,1906,baptized | deceased,2,2
+HP-00012714,FCL2-018445,damian chinchay,male,1887,1906,father | husband,4,4
+HP-00012715,FCL2-018445,lorenza vivanco,female,1887,1906,mother | wife,4,4
+HP-00012721,FCL2-005996,mercedes huarcaya,female,1889,1916,baptized | wife,3,3
+HP-00012722,FCL2-015885,jose huarcaya,male,1889,1918,father | wife_father,3,3
+HP-00012731,FCL2-006001,mercedes javier,female,1887,1890,mother,2,2
+HP-00012734,FCL2-006003,francisco mendoza,male,1882,1890,father,3,3
+HP-00012741,FCL2-020963,pablo rojas,male,1890,1911,baptized | deceased | husband,3,3
+HP-00012742,FCL2-006007,manuel rojas,male,1890,1911,father | husband_father,3,3
+HP-00012743,FCL2-006008,eduarda mancco,female,1890,1911,mother,2,2
+HP-00012754,FCL2-006014,jose polanco,male,1886,1891,father,3,3
+HP-00012755,FCL2-006014,juana barrientos,female,1886,1891,mother,3,3
+HP-00012770,FCL2-006022,sebastian sanchez,male,1890,1894,father,2,2
+HP-00012778,FCL2-006026,pablo quispe,male,1883,1890,father,2,2
+HP-00012786,FCL2-006030,manuel chaves,male,1885,1893,father,5,5
+HP-00012793,FCL2-006034,blas urbano,male,1890,1905,baptized | deceased,2,2
+HP-00012794,FCL2-006034,mariano urbano,male,1887,1905,father,4,4
+HP-00012802,FCL2-018218,evaristo huamani,male,1884,1895,father | husband,6,6
+HP-00012809,FCL2-021831,gabino tueros,male,1890,1894,baptized | deceased,2,2
+HP-00012810,FCL2-021831,guillermo tueros,male,1888,1894,father,3,3
+HP-00012837,FCL2-021877,teresa condori,female,1890,1895,baptized | deceased,2,2
+HP-00012838,FCL2-021877,remigio condori,male,1890,1895,father,2,2
+HP-00012843,FCL2-006055,gabriela sanches,female,1890,1893,mother | wife,2,2
+HP-00012854,FCL2-006061,gregorio quispe,male,1885,1890,father,2,2
+HP-00012875,FCL2-006070,yldefonsa sanches,female,1865,1890,mother,3,3
+HP-00012891,FCL2-006078,marcelina huamani,female,1887,1890,mother,2,2
+HP-00012905,FCL2-021733,encarnacion tito,female,1890,1892,baptized | deceased,2,2
+HP-00012910,FCL2-022455,felix avalos,male,1890,1914,deceased | father,2,2
+HP-00012913,FCL2-021658,virginia huamani,female,1890,1890,baptized | deceased,2,2
+HP-00012954,FCL2-014756,baltazara huallpatuero,female,1890,1920,husband_mother | mother,2,2
+HP-00012957,FCL2-006106,marcos poma,male,1869,1895,father,6,6
+HP-00012958,FCL2-006106,antonia roque,female,1869,1895,mother,6,6
+HP-00012962,FCL2-006108,vicenta espinosa,female,1885,1890,mother,3,3
+HP-00012986,FCL2-006120,petronila ramos,female,1887,1895,mother,3,3
+HP-00012998,FCL2-006126,petronila ccoillo,female,1882,1917,deceased | mother | wife,3,3
+HP-00013006,FCL2-006130,trinidad cuevas,female,1890,1891,mother,2,2
+HP-00013088,FCL2-006171,ciriana rodrigues,female,1890,1891,baptized | deceased,2,2
+HP-00013089,FCL2-006172,francisco rodrigues,male,1890,1895,father,2,2
+HP-00013128,FCL2-023073,andres avalos,male,1888,1919,deceased | father,3,3
+HP-00013159,FCL2-021833,eduarda ortiz,female,1890,1894,baptized | deceased,2,2
+HP-00013196,FCL2-006220,ysavel condori,female,1890,1891,deceased | mother,2,2
+HP-00013203,FCL2-006224,simon quispe,male,1890,1893,father,2,2
+HP-00013204,FCL2-006224,maria ramos,female,1890,1893,mother,2,2
+HP-00013214,FCL2-006230,nicolasa quispe,female,1890,1892,baptized | deceased,2,2
+HP-00013222,FCL2-006235,catalina baca,female,1890,1891,baptized | deceased,2,2
+HP-00013223,FCL2-006235,damaso baca,male,1890,1891,father,2,2
+HP-00013254,FCL2-021035,tomas poma,male,1890,1917,baptized | husband,2,2
+HP-00013255,FCL2-021035,pedro poma,male,1888,1917,father | husband_father,3,3
+HP-00013267,FCL2-006256,lino palomino,male,1891,1893,father,2,2
+HP-00013268,FCL2-006256,valentina huamani,female,1891,1893,mother,2,2
+HP-00013272,FCL2-006258,maria javier,female,1883,1891,mother,2,2
+HP-00013275,FCL2-006260,seledonio bautista,male,1891,1893,father,2,2
+HP-00013299,FCL2-019297,pedro monge,male,1891,1893,father | husband,2,2
+HP-00013327,FCL2-006285,seledonio buitron,male,1891,1892,deceased | father,2,2
+HP-00013328,FCL2-006285,natividad arango,female,1891,1892,mother | wife,2,2
+HP-00013359,FCL2-006300,javier huallpatuero,male,1887,1891,father,2,2
+HP-00013360,FCL2-006300,gregoria roque,female,1887,1891,mother,2,2
+HP-00013368,FCL2-006304,manuela huamani,female,1882,1910,deceased | mother,5,5
+HP-00013400,FCL2-022763,rufina llamoca,female,1871,1917,deceased | mother,3,3
+HP-00013415,FCL2-021794,tivurcio sanches,male,1891,1894,father,2,2
+HP-00013432,FCL2-006331,paula jimenes,female,1883,1891,mother,2,2
+HP-00013460,FCL2-006342,juana ortis,female,1891,1893,mother,2,2
+HP-00013475,FCL2-006350,rudecindo leon,male,1888,1891,father,2,2
+HP-00013478,FCL2-015773,antonia serrano,female,1891,1917,baptized | deceased | wife,3,3
+HP-00013480,FCL2-015773,espirita palomino,female,1891,1917,mother | wife_mother,5,5
+HP-00013503,FCL2-006360,mateo espinosa,male,1891,1893,father,2,2
+HP-00013504,FCL2-006360,gertrudis javier,female,1891,1893,mother,2,2
+HP-00013507,FCL2-006362,lino urvano,male,1884,1891,father,2,2
+HP-00013531,FCL2-018994,ciprian quispe,male,1867,1891,baptized | father | husband,3,3
+HP-00013532,FCL2-018994,santosa condori,female,1891,1891,mother | wife,2,2
+HP-00013547,FCL2-018809,mariano tito,male,1891,1896,father,3,3
+HP-00013548,FCL2-018809,tomasa quispe,female,1867,1912,baptized | mother | wife,6,6
+HP-00013572,FCL2-006390,guillerma quispe,female,1891,1893,mother,2,2
+HP-00013582,FCL2-006394,juana rosa gutierres,female,1891,1892,baptized | deceased,2,2
+HP-00013583,FCL2-006394,tuvias gutierres,male,1891,1892,father,2,2
+HP-00013599,FCL2-006402,felis avalos,male,1888,1893,father,3,3
+HP-00013672,FCL2-006436,fernanda espinosa,female,1884,1891,mother,2,2
+HP-00013683,FCL2-006442,fuljencio barrientos,male,1891,1896,father,3,3
+HP-00013699,FCL2-006450,tomas achamisa,male,1891,1895,father,2,2
+HP-00013704,FCL2-006452,felipa huallpatuero,female,1867,1891,mother,3,3
+HP-00013714,FCL2-015648,andres mancco,male,1891,1915,baptized | husband,2,2
+HP-00013727,FCL2-019054,juan de dios suyca,male,1891,1895,father | husband,3,3
+HP-00013728,FCL2-019054,ynes asto,female,1891,1895,mother | wife,3,3
+HP-00013747,FCL2-006469,hilarion huarcaya,male,1891,1891,father,2,2
+HP-00013754,FCL2-006472,gregorio dias,male,1891,1895,baptized | deceased,2,2
+HP-00013759,FCL2-006475,felis coyllo,male,1891,1893,father,2,2
+HP-00013764,FCL2-006477,gualverta ayme,female,1891,1892,mother | wife,2,2
+HP-00013767,FCL2-006479,pedro quispe,male,1868,1912,father | husband,3,3
+HP-00013770,FCL2-006481,maria ramos,female,1891,1894,baptized,2,2
+HP-00013799,FCL2-006495,juan sanches,male,1869,1891,father,3,3
+HP-00013808,FCL2-006499,silvestra,female,1891,1894,mother,2,2
+HP-00013827,FCL2-021703,fransisco ochoa,male,1891,1892,father,2,2
+HP-00013914,FCL2-015524,doroteo huarcaya,male,1892,1914,baptized | husband,2,2
+HP-00013928,FCL2-006545,magdalena avalos,female,1892,1894,mother,3,3
+HP-00013952,FCL2-022374,cristina ayme,female,1892,1912,deceased | mother,3,3
+HP-00013955,FCL2-006556,felis coro,male,1892,1894,father,2,2
+HP-00013991,FCL2-006572,fernando coyllo,male,1892,1895,father,2,2
+HP-00014018,FCL2-014967,josefa ccanto,female,1892,1910,baptized | wife,2,2
+HP-00014047,FCL2-006598,manuel mancco,male,1892,1894,father,2,2
+HP-00014048,FCL2-006598,simona checcnes,female,1892,1894,mother,2,2
+HP-00014070,FCL2-021828,aniseta ortis,female,1892,1894,baptized | deceased,2,2
+HP-00014071,FCL2-021828,nasario ortis,male,1892,1894,father,3,3
+HP-00014094,FCL2-006619,alejandra quispe,female,1892,1918,baptized | wife,3,3
+HP-00014108,FCL2-006625,hipolita espinosa,female,1892,1916,mother | wife,2,2
+HP-00014116,FCL2-006629,estefa condori,female,1877,1892,mother,3,3
+HP-00014134,FCL2-006639,juan ccanto,male,1892,1892,baptized | deceased,2,2
+HP-00014135,FCL2-006640,patricio ccanto,male,1892,1892,father,2,2
+HP-00014191,FCL2-019225,pedro ccochache,male,1892,1892,father | husband,2,2
+HP-00014200,FCL2-006670,angela condori,female,1892,1892,mother,2,2
+HP-00014203,FCL2-006672,estevan urvano,male,1892,1893,father,2,2
+HP-00014204,FCL2-006672,maria coyllo,female,1892,1893,mother,2,2
+HP-00014215,FCL2-006677,esteban ramos,male,1885,1892,father,2,2
+HP-00014239,FCL2-006686,esteban huarcaya,male,1892,1920,father | husband_father,3,3
+HP-00014248,FCL2-006691,luisa sotelo,female,1892,1894,mother,2,2
+HP-00014250,FCL2-016339,alejandra huallpatuero,female,1892,1920,baptized | wife,2,2
+HP-00014262,FCL2-015807,maria huarcaya,female,1892,1917,baptized | wife,2,2
+HP-00014295,FCL2-006711,dionicio barrientos,male,1892,1894,father | wife_father,2,2
+HP-00014322,FCL2-021849,juan mancco,male,1892,1894,baptized | deceased,2,2
+HP-00014426,FCL2-014768,evarista mancco,female,1892,1909,baptized | wife,2,2
+HP-00014427,FCL2-006771,alejo mancco,male,1892,1909,father | wife_father,2,2
+HP-00014451,FCL2-006783,mariano vega,male,1892,1894,father,2,2
+HP-00014452,FCL2-006783,juana huallpatuero,female,1892,1894,mother,2,2
+HP-00014462,FCL2-006789,tomas huamani,male,1892,1894,baptized | deceased,2,2
+HP-00014474,FCL2-015472,nicolasa vilca,female,1892,1914,baptized | wife,2,2
+HP-00014484,FCL2-019826,rosalia suyca,female,1892,1896,mother | wife,2,2
+HP-00014512,FCL2-006809,visenta espinosa,female,1882,1893,mother,2,2
+HP-00014544,FCL2-006824,benita cucho,female,1893,1896,mother,2,2
+HP-00014580,FCL2-006842,rosalia huayta,female,1893,1895,mother,2,2
+HP-00014615,FCL2-006860,rufino urvano,male,1884,1893,father,2,2
+HP-00014622,FCL2-021778,blas huarancca,male,1893,1893,baptized | deceased,2,2
+HP-00014627,FCL2-022416,santiago avalos,male,1893,1912,deceased | father,2,2
+HP-00014628,FCL2-022416,maria poma,female,1893,1912,mother | wife,2,2
+HP-00014663,FCL2-006878,ysidro ramos,male,1893,1895,father,2,2
+HP-00014671,FCL2-006882,felipe arimana,male,1867,1918,father | husband,4,4
+HP-00014678,FCL2-015061,josefa serrano,female,1893,1911,baptized | wife,2,2
+HP-00014748,FCL2-006915,tivurcia oscco,female,1893,1913,mother | wife_mother,3,3
+HP-00014891,FCL2-006976,reymundo vivanco,male,1884,1893,father,2,2
+HP-00014953,FCL2-014740,cipriana urbano,female,1893,1909,baptized | wife,2,2
+HP-00014996,FCL2-015890,maximiliana morales,female,1893,1918,baptized | wife,2,2
+HP-00014998,FCL2-015890,candelaria palomino,female,1893,1918,mother | wife_mother,2,2
+HP-00015029,FCL2-007039,evarista damian,female,1888,1893,mother,2,2
+HP-00015065,FCL2-022470,paulina jimenez,female,1893,1914,deceased | mother,2,2
+HP-00015087,FCL2-007065,manuel huamani,male,1858,1894,father,4,4
+HP-00015088,FCL2-007065,maria flores,female,1858,1894,mother,4,4
+HP-00015106,FCL2-007074,maximiliano ynca,male,1893,1914,baptized | deceased,2,2
+HP-00015108,FCL2-007076,gregoria huarcaya,female,1893,1914,mother,2,2
+HP-00015120,FCL2-007079,jacinta bellido,female,1893,1895,mother,2,2
+HP-00015128,FCL2-007083,marcela avalos,female,1892,1919,deceased | mother | wife,3,3
+HP-00015146,FCL2-015393,nasario sanchez,male,1893,1913,baptized | husband,2,2
+HP-00015159,FCL2-007098,francisco huallpatuero,male,1893,1911,father | husband,2,2
+HP-00015168,FCL2-007101,juana baca,female,1871,1895,baptized | mother | wife,4,4
+HP-00015203,FCL2-007115,fernando ccoyllo,male,1894,1895,father,2,2
+HP-00015265,FCL2-007145,guillerma huamani,female,1894,1894,baptized | deceased,2,2
+HP-00015267,FCL2-007146,manuela cupi,female,1882,1894,mother,2,2
+HP-00015274,FCL2-007150,narciso ccochachi,male,1894,1894,father,2,2
+HP-00015275,FCL2-007150,cacilda avalos,female,1894,1894,mother,2,2
+HP-00015290,FCL2-022445,sebastian flores,male,1894,1913,deceased | father,2,2
+HP-00015291,FCL2-022445,silvestra condori,female,1894,1913,mother | wife,2,2
+HP-00015322,FCL2-007171,simeon vega,male,1888,1894,father,2,2
+HP-00015374,FCL2-019311,francisco chinchay,male,1894,1920,father | husband | husband_father,4,4
+HP-00015375,FCL2-019311,jacinta nina,female,1894,1920,husband_mother | mother | wife,4,4
+HP-00015391,FCL2-007201,petronila chinchay,female,1894,1895,mother,2,2
+HP-00015406,FCL2-007208,calisto huallpatuero,male,1870,1894,father,2,2
+HP-00015407,FCL2-007208,paulina huauya,female,1870,1894,mother,2,2
+HP-00015433,FCL2-007221,costantina egocheaga,female,1894,1894,baptized | deceased,2,2
+HP-00015434,FCL2-007221,vicente egocheaga,male,1894,1894,father,2,2
+HP-00015435,FCL2-007221,jesus medina,female,1894,1894,mother,2,2
+HP-00015475,FCL2-007241,paula quispe,female,1888,1918,deceased | mother | wife,5,5
+HP-00015479,FCL2-007243,valentina condori,female,1887,1894,mother,2,2
+HP-00015515,FCL2-018520,ynocencia chavez,female,1887,1894,mother | wife,3,3
+HP-00015518,FCL2-007259,marcos huarcaya,male,1882,1895,father,3,3
+HP-00015579,FCL2-007288,asuncion asto,female,1894,1896,mother,2,2
+HP-00015597,FCL2-007297,ciriaca lopez,female,1894,1895,baptized | deceased,2,2
+HP-00015598,FCL2-007297,pablo lopez,male,1894,1895,father,2,2
+HP-00015599,FCL2-007297,norverta ramos,female,1894,1895,mother,2,2
+HP-00015638,FCL2-007315,alverto chalco,male,1894,1895,father,2,2
+HP-00015642,FCL2-007317,mariano huamani,male,1868,1894,father,3,3
+HP-00015649,FCL2-023183,julian quispe,male,1894,1920,baptized | deceased,2,2
+HP-00015669,FCL2-015130,monica quispe,female,1894,1912,baptized | wife,2,2
+HP-00015671,FCL2-015130,marcela condori,female,1894,1912,mother | wife_mother,2,2
+HP-00015678,FCL2-019777,jose huallpatuero,male,1894,1919,father | husband,3,3
+HP-00015686,FCL2-007333,daniel romero,male,1894,1894,father,2,2
+HP-00015687,FCL2-007333,clara acharte,female,1894,1894,mother,2,2
+HP-00015693,FCL2-007336,elena guillen,female,1894,1894,baptized | deceased,2,2
+HP-00015695,FCL2-007338,eusevia roca,female,1894,1894,mother,2,2
+HP-00015706,FCL2-022977,marcelo huamani,male,1888,1919,father | husband,4,4
+HP-00015707,FCL2-022977,ygnacia barrientos,female,1888,1919,deceased | mother,4,4
+HP-00015712,FCL2-007345,jacinto jabier,male,1894,1894,baptized | deceased,2,2
+HP-00015713,FCL2-007346,manuel jabier,male,1894,1895,father,2,2
+HP-00015714,FCL2-007347,celestina llacsamanta,female,1894,1895,mother,3,3
+HP-00015778,FCL2-007377,brijida urbano,female,1894,1895,mother,2,2
+HP-00015785,FCL2-007381,ramon suica,male,1894,1896,father,2,2
+HP-00015786,FCL2-007381,vicenta cuse,female,1894,1896,mother,2,2
+HP-00015793,FCL2-019363,carmelon lopez,male,1894,1894,father | husband,2,2
+HP-00015872,FCL2-007418,prudencio mancco,male,1894,1894,baptized | deceased,2,2
+HP-00015873,FCL2-007418,alejo mancco,male,1894,1894,father,2,2
+HP-00015900,FCL2-007428,patrocinio chalco,male,1894,1915,baptized | deceased,2,2
+HP-00015901,FCL2-007428,fidel chalco,male,1894,1915,father,2,2
+HP-00015902,FCL2-007428,felipa zarate,female,1894,1915,mother,2,2
+HP-00015913,FCL2-020375,pedro arango,male,1884,1902,father | wife_father,3,3
+HP-00015914,FCL2-020375,bacilia chalco,female,1884,1902,mother | wife_mother,3,3
+HP-00015936,FCL2-007442,juan cerilo quispe,male,1894,1895,baptized | deceased,2,2
+HP-00015937,FCL2-007442,eulogio quispe,male,1894,1895,father,2,2
+HP-00015938,FCL2-007442,cristina collahua,female,1894,1895,mother,2,2
+HP-00015982,FCL2-018364,pascuala quispe,female,1887,1917,deceased | mother | wife,5,5
+HP-00016000,FCL2-021912,baldomero serrano,male,1895,1895,baptized | deceased,2,2
+HP-00016020,FCL2-015256,marcelina serrano,female,1895,1913,baptized | wife,2,2
+HP-00016037,FCL2-019609,calisto ccochachi,male,1895,1896,father | husband,3,3
+HP-00016038,FCL2-019609,juliana abalos,female,1895,1896,mother | wife,3,3
+HP-00016088,FCL2-007503,gabriela ccoyllo,female,1895,1913,baptized | deceased | wife,3,3
+HP-00016089,FCL2-007504,mariano ccoyllo,male,1895,1910,father | wife_father,2,2
+HP-00016146,FCL2-007530,francisca sanches,female,1888,1895,mother,2,2
+HP-00016250,FCL2-007576,victoria ramos,female,1895,1895,mother,2,2
+HP-00016268,FCL2-007585,cipriana ccanto,female,1895,1895,baptized | deceased,2,2
+HP-00016270,FCL2-007585,francisca abalos,female,1895,1895,mother,2,2
+HP-00016348,FCL2-019311,tiburcio chinchay,male,1895,1920,baptized | husband,2,2
+HP-00016368,FCL2-019810,aurelia champa,female,1895,1913,baptized | wife,2,2
+HP-00016402,FCL2-017974,francisca sanchez,female,1880,1912,mother | wife,4,4
+HP-00016524,FCL2-014985,florisa lopez,female,1895,1911,baptized | wife,2,2
+HP-00016580,FCL2-015492,saturnina solier,female,1895,1914,baptized | wife,2,2
+HP-00016581,FCL2-015492,tomas solier,male,1895,1914,father | wife_father,2,2
+HP-00016688,FCL2-015300,ygnacio urbano,male,1895,1913,baptized | husband,2,2
+HP-00016856,FCL2-007847,mariano huallpatuiro,male,1883,1896,father,2,2
+HP-00016859,FCL2-007849,lazaro morales,male,1896,1919,baptized | deceased,2,2
+HP-00016883,FCL2-016486,eulalia huamani,female,1896,1920,baptized | wife,2,2
+HP-00016899,FCL2-007867,jose quispe,male,1846,1850,father,2,2
+HP-00016912,FCL2-007873,isidora quispe,female,1846,1848,mother,2,2
+HP-00016915,FCL2-007875,pablo huacca,male,1846,1856,father,2,2
+HP-00016916,FCL2-007875,maria tito,female,1846,1856,mother,2,2
+HP-00016928,FCL2-007881,isabel barrientos,female,1846,1850,mother,2,2
+HP-00016935,FCL2-007885,mariano ramos,male,1846,1875,deceased | father,3,3
+HP-00016936,FCL2-007885,gregoria huarcaia,female,1846,1875,mother | wife,3,3
+HP-00016971,FCL2-007903,francisca huallpatuiro,female,1846,1850,mother,2,2
+HP-00016978,FCL2-013510,hipolito bautista,male,1834,1864,father | husband,4,4
+HP-00016979,FCL2-013510,silveria urbano,female,1834,1864,deceased | mother | wife,4,4
+HP-00017018,FCL2-007926,francisca huachaca,female,1847,1849,mother,2,2
+HP-00017035,FCL2-007934,santiago barrientos,male,1847,1849,father,2,2
+HP-00017036,FCL2-007934,bacilia huallpatuiro,female,1847,1849,mother,2,2
+HP-00017042,FCL2-007938,eulalia ccoillo,female,1847,1917,baptized | deceased | wife,3,3
+HP-00017059,FCL2-007946,manuel espinoza,male,1847,1852,father,3,3
+HP-00017078,FCL2-007956,felipe bustillos,male,1847,1850,father,2,2
+HP-00017079,FCL2-007956,gregoria ccoillo,female,1847,1850,mother,2,2
+HP-00017091,FCL2-007963,gabriela perez,female,1847,1857,mother,2,2
+HP-00017126,FCL2-018210,gregorio asto,male,1847,1884,father | husband_father,5,5
+HP-00017127,FCL2-018210,carmen lupa,female,1847,1862,mother,4,4
+HP-00017130,FCL2-007980,asencio asto,male,1847,1850,father,2,2
+HP-00017138,FCL2-007984,asencio ramos,male,1847,1850,father,2,2
+HP-00017139,FCL2-007984,lucia javier,female,1847,1850,mother,2,2
+HP-00017142,FCL2-007986,juan de dios ayme,male,1847,1852,father,2,2
+HP-00017143,FCL2-007986,santona barrientos,female,1847,1852,mother,2,2
+HP-00017182,FCL2-008006,eustaquio polanco,male,1848,1853,father,2,2
+HP-00017183,FCL2-008006,ignacia bustillos,female,1848,1853,mother,2,2
+HP-00017191,FCL2-008010,ageda sanchez,female,1848,1851,mother | wife,2,2
+HP-00017210,FCL2-008020,manuel poma,male,1848,1850,father,2,2
+HP-00017211,FCL2-008020,lucia condori,female,1848,1850,mother,2,2
+HP-00017225,FCL2-021175,mariano santiago,male,1848,1864,baptized | deceased,2,2
+HP-00017259,FCL2-008042,ysidora quispe,female,1848,1857,mother,2,2
+HP-00017267,FCL2-008046,francisca flores,female,1848,1851,mother,2,2
+HP-00017287,FCL2-008056,placida quispe,female,1848,1849,mother,2,2
+HP-00017297,FCL2-008061,nicolasa huauya,female,1848,1852,mother,3,3
+HP-00017308,FCL2-008066,anselmo urbano,male,1848,1871,deceased | father,2,2
+HP-00017464,FCL2-008139,leandra huarancca,female,1838,1871,deceased | mother | wife,4,4
+HP-00017480,FCL2-008146,martina huauya,female,1849,1855,mother,2,2
+HP-00017483,FCL2-008148,cristobal ortiz,male,1849,1864,deceased | father,2,2
+HP-00017484,FCL2-008148,alejandra urbano,female,1849,1864,mother | wife,2,2
+HP-00017522,FCL2-008166,manuel espinoza,male,1849,1850,father,2,2
+HP-00017584,FCL2-008192,paula huarcaya,female,1849,1851,mother,2,2
+HP-00017623,FCL2-008210,manuel misajel,male,1849,1852,father,2,2
+HP-00017624,FCL2-008210,ysidora ramos,female,1849,1852,mother,2,2
+HP-00017641,FCL2-008218,tomaza roque,female,1850,1850,mother,2,2
+HP-00017679,FCL2-008234,yetrudis allcca,female,1850,1852,mother,2,2
+HP-00017702,FCL2-008243,teodor gavilan,male,1850,1853,father,2,2
+HP-00017759,FCL2-008269,maria huamani,female,1850,1852,mother,2,2
+HP-00017834,FCL2-008300,francisca nolasco,female,1850,1862,mother,3,3
+HP-00017910,FCL2-008335,manuela sanches,female,1851,1870,deceased | mother,4,4
+HP-00017925,FCL2-008342,domingo abalos,male,1851,1856,father,2,2
+HP-00017926,FCL2-008342,manuela ramos,female,1851,1856,mother,2,2
+HP-00017945,FCL2-008352,nieves sanches,female,1851,1895,deceased | mother,3,3
+HP-00017952,FCL2-008355,mariano condori,male,1851,1865,father,3,3
+HP-00017992,FCL2-008375,juan condori,male,1851,1866,father | husband,2,2
+HP-00017993,FCL2-008375,rosa solis,female,1851,1866,deceased | mother,2,2
+HP-00018000,FCL2-008379,pablo sebidola,male,1851,1852,father,2,2
+HP-00018001,FCL2-008379,santona damian,female,1851,1852,mother,2,2
+HP-00018040,FCL2-008398,manuela sanchez,female,1852,1864,mother,2,2
+HP-00018139,FCL2-008442,pascual cruz,male,1852,1854,father,2,2
+HP-00018140,FCL2-008442,micaela ramos,female,1852,1854,mother,2,2
+HP-00018187,FCL2-008465,mariano chinchai,male,1852,1875,father | husband,3,3
+HP-00018195,FCL2-008468,leandro chinchai,male,1852,1857,father,2,2
+HP-00018196,FCL2-008468,carmen santiago,female,1852,1857,mother,2,2
+HP-00018211,FCL2-008475,tomas quispe,male,1852,1854,father,2,2
+HP-00018212,FCL2-008475,maria espinosa,female,1852,1854,mother,2,2
+HP-00018256,FCL2-008495,juana nazaret,female,1852,1866,mother,2,2
+HP-00018260,FCL2-008497,ysabel sanchez,female,1853,1865,mother,2,2
+HP-00018279,FCL2-008506,carlos tueros,male,1853,1865,father,2,2
+HP-00018352,FCL2-008541,marcos chamopa,male,1853,1856,father,2,2
+HP-00018396,FCL2-008562,juan javier,male,1853,1886,deceased | father,4,4
+HP-00018397,FCL2-008562,santona condori,female,1853,1886,mother | wife,4,4
+HP-00018452,FCL2-008590,pedro ccoillo,male,1854,1878,father | husband_father,2,2
+HP-00018453,FCL2-008591,fausta tito,female,1854,1878,husband_mother | mother,2,2
+HP-00018465,FCL2-008596,eulalia huauya,female,1854,1856,mother,2,2
+HP-00018468,FCL2-008598,martin sanches,male,1854,1869,father,4,4
+HP-00018515,FCL2-008620,paula achamisa,female,1854,1888,mother | wife_mother,2,2
+HP-00018553,FCL2-017577,josefa chinchay,female,1854,1870,baptized | wife,2,2
+HP-00018578,FCL2-008649,mariano abalos,male,1854,1885,deceased | father,3,3
+HP-00018601,FCL2-019456,pedro champa,male,1854,1894,father | husband_father,2,2
+HP-00018702,FCL2-008709,miguel ccoillo,male,1855,1880,father | husband_father,3,3
+HP-00018703,FCL2-008709,jacinta huauia,female,1855,1858,mother,2,2
+HP-00018915,FCL2-008806,calista llamoca,female,1857,1892,deceased | mother | wife,3,3
+HP-00018968,FCL2-017685,pedro huamani,male,1857,1870,baptized | husband,2,2
+HP-00019002,FCL2-008848,micaela peres,female,1857,1871,mother,3,3
+HP-00019021,FCL2-008857,nicolas cerrano,male,1858,1882,father,3,3
+HP-00019034,FCL2-008863,jocefa damian,female,1858,1860,mother,2,2
+HP-00019038,FCL2-008865,cristina vega,female,1858,1868,mother,3,3
+HP-00019062,FCL2-017016,leocadia roque,female,1858,1858,mother | wife,2,2
+HP-00019064,FCL2-018115,rufino urbano,male,1858,1882,baptized | husband,2,2
+HP-00019065,FCL2-018115,benito urbano,male,1858,1882,father | husband_father,2,2
+HP-00019073,FCL2-016726,eusebio llamocca,male,1849,1867,deceased | father | husband,4,4
+HP-00019074,FCL2-016726,juliana condori,female,1849,1867,mother | wife,4,4
+HP-00019102,FCL2-008890,maria condori,female,1858,1860,mother | wife,2,2
+HP-00019125,FCL2-008902,domingo chalco,male,1858,1866,father,3,3
+HP-00019233,FCL2-017158,jose aybar,male,1861,1862,father | husband,2,2
+HP-00019234,FCL2-017158,gabina allcari,female,1861,1862,mother | wife,2,2
+HP-00019257,FCL2-008965,andres chaves,male,1862,1870,father,2,2
+HP-00019258,FCL2-008965,francisca huachaca,female,1862,1870,mother,2,2
+HP-00019282,FCL2-008976,manuela asebedo,female,1862,1868,mother,2,2
+HP-00019289,FCL2-008979,mariano tito,male,1862,1865,father,2,2
+HP-00019290,FCL2-008979,micaela ramos,female,1862,1865,mother,2,2
+HP-00019303,FCL2-008987,nasario mancco,male,1864,1895,father | husband_father,3,3
+HP-00019304,FCL2-008987,asencia huarcaya,female,1864,1895,husband_mother | mother,3,3
+HP-00019315,FCL2-008993,lorenzo dias,male,1864,1869,father,2,2
+HP-00019377,FCL2-009022,baleriana huauya,female,1864,1865,mother,2,2
+HP-00019469,FCL2-009066,juana ramos,female,1864,1870,mother,4,4
+HP-00019476,FCL2-019189,marcos ramos,male,1864,1892,father | wife_father,4,4
+HP-00019477,FCL2-019189,benita polanco,female,1864,1892,mother | wife_mother,4,4
+HP-00019481,FCL2-009071,brijida quispe,female,1864,1868,mother,2,2
+HP-00019532,FCL2-009096,pablo huachaca,male,1864,1871,deceased | father,5,5
+HP-00019533,FCL2-009096,santona condori,female,1864,1871,mother | wife,5,5
+HP-00019536,FCL2-009098,pablo sevidola,male,1864,1865,father,2,2
+HP-00019572,FCL2-009115,melchor roca y sotelo,male,1865,1867,father,2,2
+HP-00019586,FCL2-009122,asencia servantes,female,1865,1867,mother,2,2
+HP-00019594,FCL2-009126,toribia abalos,female,1865,1867,mother,2,2
+HP-00019610,FCL2-009134,paula achamisa,female,1865,1870,mother,2,2
+HP-00019621,FCL2-019004,feliz sanches,male,1865,1891,father | husband_father,2,2
+HP-00019662,FCL2-009157,evarista quispe,female,1865,1867,mother,2,2
+HP-00019682,FCL2-009165,feliciana alvarado,female,1865,1913,husband_mother | mother,3,3
+HP-00019698,FCL2-016879,vicenta leon,female,1852,1917,deceased | mother | wife,3,3
+HP-00019702,FCL2-009173,juliana muchari,female,1865,1871,mother | wife,3,3
+HP-00019758,FCL2-009202,fernanda huauya,female,1865,1894,husband_mother | mother,3,3
+HP-00019777,FCL2-009212,alejo espinosa,male,1865,1870,father,3,3
+HP-00019778,FCL2-009212,natividad tito,female,1865,1870,mother,3,3
+HP-00019794,FCL2-009219,manuela asevedo,female,1865,1905,deceased | mother,2,2
+HP-00019822,FCL2-009231,maria suica,female,1865,1868,mother,2,2
+HP-00019850,FCL2-009244,leandra sevidola,female,1865,1869,mother,2,2
+HP-00019901,FCL2-009268,lorenso dias,male,1866,1868,father,2,2
+HP-00019914,FCL2-009274,fernanda marcacusco,female,1866,1875,mother,4,4
+HP-00019922,FCL2-009278,ynes urvano,female,1866,1868,mother,2,2
+HP-00019945,FCL2-009289,luis fernandez,male,1866,1869,father,2,2
+HP-00019946,FCL2-009289,paula perez,female,1866,1869,mother,2,2
+HP-00019949,FCL2-009291,manuel mejia,male,1866,1892,father | husband,4,4
+HP-00019974,FCL2-009302,eustaquia huamani,female,1866,1893,mother | wife,2,2
+HP-00019981,FCL2-009305,ynosencio huamani,male,1866,1869,father,2,2
+HP-00020022,FCL2-009324,isabel sanches,female,1866,1868,mother,2,2
+HP-00020037,FCL2-017146,julian sanches,male,1862,1871,father | husband,3,3
+HP-00020038,FCL2-017146,josefa ramos,female,1862,1871,deceased | mother | wife,3,3
+HP-00020041,FCL2-009333,custodio cucho,male,1866,1868,father,2,2
+HP-00020042,FCL2-009333,trinidad misajel,female,1866,1868,mother,2,2
+HP-00020048,FCL2-009337,asencio chumbile,male,1866,1866,baptized | deceased,2,2
+HP-00020053,FCL2-017322,evaristo ayme,male,1866,1867,father | husband,2,2
+HP-00020068,FCL2-009348,silveria silva,female,1866,1893,baptized | deceased,2,2
+HP-00020069,FCL2-009349,pablo silva,male,1866,1893,father,2,2
+HP-00020077,FCL2-009354,santiago bustios,male,1866,1868,father,3,3
+HP-00020078,FCL2-009354,estefa ayme,female,1866,1868,mother,3,3
+HP-00020155,FCL2-019189,agustina ramos,female,1866,1892,baptized | wife,2,2
+HP-00020211,FCL2-009417,mateo huachaca,male,1866,1866,baptized | deceased,2,2
+HP-00020231,FCL2-018508,damian huamani,male,1866,1888,baptized | husband,2,2
+HP-00020235,FCL2-009428,andrea asto,female,1866,1892,baptized | wife,2,2
+HP-00020236,FCL2-009429,pedro asto,male,1866,1892,father | wife_father,2,2
+HP-00020260,FCL2-009441,cecilio sanches,male,1866,1894,father | husband,3,3
+HP-00020261,FCL2-009441,rosa barrientos,female,1866,1894,deceased | mother,3,3
+HP-00020292,FCL2-009455,jose condori,male,1867,1871,father,2,2
+HP-00020293,FCL2-009455,maria roque,female,1867,1871,mother,2,2
+HP-00020300,FCL2-009459,nicolas sanches,male,1867,1869,father,2,2
+HP-00020324,FCL2-009470,eustaquio quispe,male,1867,1890,father | wife_father,2,2
+HP-00020344,FCL2-009481,juan de dios ramos,male,1867,1870,father,2,2
+HP-00020352,FCL2-009485,bernardo ramos,male,1867,1869,father,2,2
+HP-00020353,FCL2-009485,maria huamani,female,1867,1869,mother,2,2
+HP-00020383,FCL2-019064,leandra huallpatuero,female,1867,1891,baptized | wife,2,2
+HP-00020399,FCL2-020432,manuel vivanco,male,1867,1903,baptized | husband,2,2
+HP-00020412,FCL2-009512,juan marcacusco,male,1867,1870,father,3,3
+HP-00020413,FCL2-009512,natividad javier,female,1867,1870,mother,3,3
+HP-00020429,FCL2-009519,bictoria choccehuanca,female,1867,1871,mother,3,3
+HP-00020440,FCL2-009524,jervacio roque,male,1867,1884,father | wife_father,3,3
+HP-00020464,FCL2-009536,ynosencio sanches,male,1867,1870,father,2,2
+HP-00020465,FCL2-009536,manuela poma,female,1867,1870,mother,2,2
+HP-00020488,FCL2-017593,ygnacio sebidola,male,1867,1871,father | husband,3,3
+HP-00020491,FCL2-009548,pablo barrientos,male,1867,1891,baptized | husband,2,2
+HP-00020493,FCL2-009549,juana ramos,female,1867,1917,deceased | mother | wife,5,5
+HP-00020523,FCL2-009564,cristobal fernandes,male,1867,1888,baptized | husband,2,2
+HP-00020524,FCL2-009564,luis fernandes,male,1867,1888,father | husband_father,2,2
+HP-00020525,FCL2-009564,paula peres,female,1867,1888,husband_mother | mother,2,2
+HP-00020528,FCL2-009566,jose cucho,male,1867,1892,deceased | father,2,2
+HP-00020529,FCL2-009566,rosalia bacas,female,1867,1892,mother | wife,2,2
+HP-00020548,FCL2-009575,martin chinchai,male,1867,1883,father,2,2
+HP-00020549,FCL2-009575,manuela cruz,female,1867,1883,mother,2,2
+HP-00020569,FCL2-009584,rosa garivay,female,1867,1871,deceased | mother,2,2
+HP-00020600,FCL2-021997,nicolas ccanto,male,1867,1901,father | husband_father,4,4
+HP-00020608,FCL2-018789,gregorio asto,male,1867,1895,father | husband_father | wife_father,4,4
+HP-00020609,FCL2-018789,manuela espinosa,female,1867,1890,mother | wife_mother,3,3
+HP-00020623,FCL2-018933,miguel ccanto,male,1867,1891,baptized | husband,2,2
+HP-00020624,FCL2-018933,juan ccanto,male,1867,1891,father | husband_father,2,2
+HP-00020633,FCL2-009612,rofina llamocca,female,1867,1883,mother,3,3
+HP-00020661,FCL2-009626,felipa gavillan,female,1867,1884,mother,3,3
+HP-00020703,FCL2-009646,juan de la cruz,male,1867,1885,baptized,2,2
+HP-00020708,FCL2-009649,melchor belasque,male,1867,1868,father,2,2
+HP-00020711,FCL2-015633,pedro arimana,male,1867,1920,baptized | husband,2,2
+HP-00020732,FCL2-009659,andres jimenes,male,1868,1871,father,2,2
+HP-00020733,FCL2-009659,maria sanches,female,1868,1871,mother,2,2
+HP-00020776,FCL2-009679,manuela dias,female,1868,1868,baptized | deceased,2,2
+HP-00020813,FCL2-009694,santos ramos,male,1868,1884,father,3,3
+HP-00020814,FCL2-009694,ynes huauya,female,1868,1884,mother,3,3
+HP-00020862,FCL2-009715,cosebida serpa,female,1868,1871,mother,2,2
+HP-00020865,FCL2-009717,eujenio flores,male,1868,1891,father | husband,2,2
+HP-00020896,FCL2-009732,mauricia cucho,female,1868,1871,baptized | deceased,4,4
+HP-00020898,FCL2-009733,manuela ccoyllo,female,1868,1871,mother | wife,6,6
+HP-00020945,FCL2-009754,juan barrientos,male,1868,1870,father,2,2
+HP-00020946,FCL2-009754,maria cruz,female,1868,1870,mother,2,2
+HP-00020960,FCL2-017110,remijio sanches,male,1868,1893,baptized | husband,2,2
+HP-00020964,FCL2-009763,marcos ccanto,male,1868,1912,baptized | deceased,2,2
+HP-00021008,FCL2-009782,catalina no conocido,female,1868,1869,baptized,2,2
+HP-00021039,FCL2-018922,dionicio ayme,male,1868,1891,baptized | husband,2,2
+HP-00021041,FCL2-009799,florentina sanches,female,1868,1891,husband_mother | mother,2,2
+HP-00021047,FCL2-018423,feliciana quispe,female,1868,1887,baptized | wife,2,2
+HP-00021052,FCL2-019239,damaso huayta,male,1869,1871,father,2,2
+HP-00021053,FCL2-019239,ynosencia ayme,female,1869,1893,husband_mother | mother,2,2
+HP-00021079,FCL2-009564,gregoria jimenes,female,1868,1888,baptized | wife,2,2
+HP-00021080,FCL2-009816,francisco jimenes,male,1868,1888,father | wife_father,3,3
+HP-00021081,FCL2-009816,caetana ramos,female,1868,1871,mother,2,2
+HP-00021116,FCL2-009832,ysabel tito,female,1869,1892,mother | wife_mother,3,3
+HP-00021130,FCL2-019200,benjamin huamani,male,1869,1892,baptized | husband,2,2
+HP-00021191,FCL2-022774,bartolome condori,male,1869,1917,deceased | father,3,3
+HP-00021203,FCL2-009873,ildefonso sanches,male,1869,1885,father,2,2
+HP-00021223,FCL2-009881,juan ccanto,male,1869,1885,father,2,2
+HP-00021224,FCL2-009881,seberina peres,female,1869,1885,mother,2,2
+HP-00021243,FCL2-019285,marcos cruz,male,1869,1916,father | husband | husband_father,4,4
+HP-00021275,FCL2-009903,torivio espinosa,male,1869,1871,father,2,2
+HP-00021276,FCL2-009903,hilaria sanches,female,1869,1871,mother,2,2
+HP-00021368,FCL2-009941,casimira cruz,female,1869,1871,mother,4,4
+HP-00021383,FCL2-009949,remigio javier,male,1869,1875,father | husband,3,3
+HP-00021384,FCL2-009949,agustina carbajal,female,1869,1875,deceased | mother,3,3
+HP-00021393,FCL2-009954,brijida suyca,female,1869,1896,mother | wife_mother,2,2
+HP-00021407,FCL2-018939,ynosencia avalos,female,1869,1891,baptized | wife,2,2
+HP-00021408,FCL2-018939,juan avalos,male,1869,1891,father | wife_father,2,2
+HP-00021428,FCL2-009967,diego millan roca,male,1870,1883,deceased | father,2,2
+HP-00021429,FCL2-009967,juliana gutierres,female,1870,1883,mother | wife,2,2
+HP-00021455,FCL2-018789,sebastiana asto,female,1870,1890,baptized | wife,2,2
+HP-00021500,FCL2-009997,antonio huarcaya,male,1870,1886,father,3,3
+HP-00021518,FCL2-019074,victoria huallpatuero,female,1870,1891,baptized | wife,2,2
+HP-00021520,FCL2-010006,juana ramos,female,1870,1870,mother,2,2
+HP-00021552,FCL2-010022,carmen castro,female,1870,1896,husband_mother | mother,2,2
+HP-00021589,FCL2-018854,sebastian huallpatuero,male,1870,1890,baptized | husband,2,2
+HP-00021590,FCL2-010039,andres huallpatuero,male,1870,1890,father | husband_father,2,2
+HP-00021599,FCL2-019684,estefa polanco,female,1870,1895,husband_mother | mother,3,3
+HP-00021781,FCL2-010124,juan ccoyllo,male,1871,1871,father,2,2
+HP-00021782,FCL2-010124,benita cucho,female,1871,1871,mother,2,2
+HP-00021784,FCL2-010126,manuela ramos,female,1871,1871,baptized,2,2
+HP-00021786,FCL2-010126,maria suyca,female,1871,1871,mother,2,2
+HP-00021788,FCL2-010128,manuela ccoyllo,female,1871,1871,baptized,2,2
+HP-00021792,FCL2-010130,manuela pacheco,female,1871,1871,baptized,2,2
+HP-00021794,FCL2-010130,santona quizpe,female,1871,1871,mother,2,2
+HP-00021796,FCL2-019323,andres poma,male,1871,1894,baptized | husband,3,3
+HP-00021802,FCL2-010133,calista arellano,female,1871,1871,mother,2,2
+HP-00021806,FCL2-010135,juana lopes,female,1871,1871,mother,2,2
+HP-00021813,FCL2-010138,pablo ramos,male,1871,1871,father,2,2
+HP-00021814,FCL2-010138,rufina,female,1871,1871,mother,2,2
+HP-00021837,FCL2-010148,jose chumbile,male,1871,1885,father,2,2
+HP-00021838,FCL2-010148,matiasa huayapa,female,1871,1885,mother,2,2
+HP-00021953,FCL2-010193,alejo ychacaya,male,1871,1875,father,2,2
+HP-00022055,FCL2-018965,rosa tito,female,1871,1891,baptized | wife,2,2
+HP-00022072,FCL2-010245,rumualdo huamani,male,1871,1875,father,2,2
+HP-00022073,FCL2-010245,juana huamani,female,1871,1875,mother,2,2
+HP-00022099,FCL2-018884,pablo lopes,male,1871,1891,baptized | husband,2,2
+HP-00022101,FCL2-018884,gregoria chalco,female,1871,1891,husband_mother | mother,2,2
+HP-00022136,FCL2-010274,mariano bacas,male,1871,1893,father | wife_father,2,2
+HP-00022173,FCL2-010292,tomasa ortiz,female,1871,1871,mother,2,2
+HP-00022247,FCL2-019285,bacilio cruz,male,1871,1893,baptized | husband,2,2
+HP-00022256,FCL2-010328,leandro yturvide,male,1871,1887,father,2,2
+HP-00022290,FCL2-019345,nicolas roca,male,1871,1894,baptized | husband,2,2
+HP-00022291,FCL2-010345,diego roca,male,1871,1894,father | husband_father,2,2
+HP-00022387,FCL2-010389,jasinta llamocca,female,1875,1883,mother,2,2
+HP-00022393,FCL2-010393,santos sanches,male,1875,1875,baptized | deceased,2,2
+HP-00022394,FCL2-010394,eusebio sanches,male,1875,1875,father,2,2
+HP-00022403,FCL2-017606,mersedes javier,female,1870,1890,mother | wife,3,3
+HP-00022430,FCL2-010411,domingo espinosa,male,1875,1882,father,2,2
+HP-00022431,FCL2-010411,agustina guillen,female,1875,1882,mother,2,2
+HP-00022433,FCL2-014862,damaso de la cruz,male,1875,1910,baptized | husband,2,2
+HP-00022502,FCL2-010445,manuel condori,male,1882,1885,father,2,2
+HP-00022568,FCL2-010472,clemencia origuela,female,1882,1892,mother | wife,2,2
+HP-00022589,FCL2-010482,romaldo quispe,male,1882,1885,father,2,2
+HP-00022597,FCL2-010485,calisto llamocca,male,1882,1882,deceased | father,2,2
+HP-00022598,FCL2-010485,isabel tito,female,1882,1882,mother | wife,2,2
+HP-00022609,FCL2-010490,brigida ccoyllo,female,1882,1884,mother,2,2
+HP-00022649,FCL2-010508,juana chavez,female,1882,1883,mother,2,2
+HP-00022668,FCL2-020665,florentino bendezu,male,1882,1904,father | husband_father,2,2
+HP-00022712,FCL2-010533,santos tito,male,1883,1910,father | husband,2,2
+HP-00022713,FCL2-010533,juana espinosa,female,1883,1910,deceased | mother,2,2
+HP-00022771,FCL2-022546,carlos rojas,male,1883,1883,father | husband,2,2
+HP-00022772,FCL2-022546,martina cuevas,female,1883,1883,deceased | mother,2,2
+HP-00022810,FCL2-010578,cesareo chalco,male,1883,1889,baptized | deceased,2,2
+HP-00022812,FCL2-010580,natividad mendoza,female,1883,1889,mother,2,2
+HP-00022827,FCL2-022736,lorenzo ccoillo,male,1883,1917,father | husband,2,2
+HP-00022828,FCL2-022736,manuela salinas,female,1883,1917,deceased | mother,2,2
+HP-00022843,FCL2-010594,cipriano berrocal,male,1883,1885,father,2,2
+HP-00022844,FCL2-010594,juana dongo,female,1883,1885,mother,2,2
+HP-00022855,FCL2-010600,mariano huaman,male,1883,1883,father,2,2
+HP-00023016,FCL2-021025,matiasa ccanto,female,1883,1907,baptized | wife,2,2
+HP-00023048,FCL2-017805,corpus quispe,male,1875,1890,father | husband,4,4
+HP-00023049,FCL2-017805,maria condori,female,1875,1890,deceased | mother | wife,4,4
+HP-00023084,FCL2-010701,norverta buitron,female,1883,1889,mother | wife,3,3
+HP-00023091,FCL2-010705,clara acharte,female,1883,1902,mother | wife_mother,2,2
+HP-00023231,FCL2-010768,salvinia romero,female,1884,1887,mother,2,2
+HP-00023262,FCL2-010784,mariano ramos,male,1884,1887,father,3,3
+HP-00023263,FCL2-010784,maria dias,female,1884,1887,mother,3,3
+HP-00023345,FCL2-010821,sotera gavilan,female,1884,1884,baptized,2,2
+HP-00023346,FCL2-010821,eujenio gavilan,male,1884,1884,father,2,2
+HP-00023347,FCL2-010821,atanacia dias,female,1884,1884,mother,2,2
+HP-00023349,FCL2-010822,senon mendosa,male,1883,1884,baptized,2,2
+HP-00023353,FCL2-010824,leonidas yturbide,male,1883,1884,baptized,2,2
+HP-00023424,FCL2-020375,felipa arango,female,1884,1902,baptized | wife,2,2
+HP-00023433,FCL2-010856,manuel coyllo,male,1884,1891,father | husband,2,2
+HP-00023434,FCL2-010856,rufina cucho,female,1884,1891,deceased | mother,2,2
+HP-00023481,FCL2-010875,gregorio anyosa,male,1884,1888,father,2,2
+HP-00023491,FCL2-015819,santos urbano,male,1884,1918,baptized | husband,2,2
+HP-00023496,FCL2-016090,andres avalos,male,1884,1919,father | wife_father,2,2
+HP-00023572,FCL2-010917,cecilio tito,male,1884,1888,father,2,2
+HP-00023573,FCL2-010917,juana chinchay,female,1884,1888,mother,2,2
+HP-00023659,FCL2-020843,mariano bautista,male,1884,1906,father | wife_father,2,2
+HP-00023860,FCL2-011050,damiana fernandes,female,1885,1900,mother | wife_mother,2,2
+HP-00023900,FCL2-011068,eulalia ccoyllo,female,1885,1906,husband_mother | mother,2,2
+HP-00023972,FCL2-011100,jose huarcaya,male,1885,1919,father | husband_father,3,3
+HP-00024032,FCL2-011126,paulina jimenes,female,1886,1888,mother,2,2
+HP-00024036,FCL2-018266,yldefonsa llacsamanta,female,1886,1886,mother | wife,2,2
+HP-00024059,FCL2-011138,rufino sanches,male,1886,1892,deceased | father,2,2
+HP-00024060,FCL2-011138,gregoria quispe,female,1886,1892,mother | wife,2,2
+HP-00024102,FCL2-006034,paula urbano,female,1887,1887,baptized,2,2
+HP-00024277,FCL2-011234,antonio huallpatuero,male,1887,1912,baptized | husband,2,2
+HP-00024298,FCL2-011242,romualdo quispe,male,1887,1916,father,2,2
+HP-00024353,FCL2-022969,mateo aiquipa,male,1887,1919,father | husband,2,2
+HP-00024354,FCL2-022969,valeriana espinosa,female,1887,1919,deceased | mother,2,2
+HP-00024357,FCL2-011268,aparicio huamani,male,1887,1887,father,2,2
+HP-00024358,FCL2-011268,no conocido,female,1887,1887,mother,2,2
+HP-00024376,FCL2-011276,francisco serrano,male,1887,1891,baptized | deceased,2,2
+HP-00024378,FCL2-011278,bonifacia huamani,female,1887,1891,mother,2,2
+HP-00024404,FCL2-021573,francisco urbano,male,1887,1888,baptized | deceased,2,2
+HP-00024405,FCL2-021573,rufino urbano,male,1887,1888,father,2,2
+HP-00024446,FCL2-011308,ambrocia fernandes,female,1888,1889,mother,2,2
+HP-00024534,FCL2-014534,antonio huamani,male,1888,1908,baptized | husband,2,2
+HP-00024550,FCL2-011356,victoria lopez,female,1888,1888,baptized,2,2
+HP-00024552,FCL2-011356,anatacia soica,female,1888,1888,mother,2,2
+HP-00024574,FCL2-020429,dorotea puma,female,1888,1903,baptized | wife,2,2
+HP-00024575,FCL2-020429,buenaventura puma,male,1888,1903,father | wife_father,2,2
+HP-00024576,FCL2-020429,ambrocia sanchez,female,1888,1903,mother | wife_mother,2,2
+HP-00024579,FCL2-017968,fernando condori,male,1880,1892,deceased | father | husband,3,3
+HP-00024580,FCL2-017968,benita roque,female,1880,1892,mother | wife,3,3
+HP-00024600,FCL2-011376,jacinta vellido,female,1888,1916,mother | wife,2,2
+HP-00024672,FCL2-015709,gregorio tito,male,1888,1916,baptized | husband,2,2
+HP-00024779,FCL2-015487,leon bautista,male,1888,1912,baptized | husband,3,3
+HP-00024817,FCL2-011468,francisca avalos,female,1888,1909,mother | wife,2,2
+HP-00024836,FCL2-022632,severino marcacuzco,male,1888,1916,father | husband,2,2
+HP-00024837,FCL2-022632,narcisa aivar,female,1888,1916,deceased | mother,2,2
+HP-00024871,FCL2-014702,mercedes serrano,female,1888,1909,baptized | wife,2,2
+HP-00024895,FCL2-014826,antonio quispe,male,1888,1909,baptized | husband,2,2
+HP-00025311,FCL2-011716,bonifacio cosi,male,1817,1819,wife_father,2,2
+HP-00025410,FCL2-012131,laureano sanches,male,1818,1820,husband_father,2,2
+HP-00026408,FCL2-012385,sebastian condori,male,1823,1838,wife_father,2,2
+HP-00026767,FCL2-012597,tomas urbano,male,1824,1828,husband,2,2
+HP-00026768,FCL2-012597,felipa huamani,female,1824,1828,wife,2,2
+HP-00027051,FCL2-012810,alexo hayme,male,1825,1830,husband,2,2
+HP-00027114,FCL2-012862,domingo gutierres,male,1826,1828,husband,2,2
+HP-00027115,FCL2-012862,juana carbajal,female,1826,1828,wife,2,2
+HP-00027880,FCL2-013439,eusevio flores,male,1833,1833,husband,2,2
+HP-00027881,FCL2-013439,maria ynca,female,1833,1833,wife,2,2
+HP-00028351,FCL2-013717,rosa quispe,female,1838,1838,wife,2,2
+HP-00028357,FCL2-013728,nicolas urbano,male,1838,1848,husband,2,2
+HP-00028358,FCL2-013728,maria chalco,female,1838,1848,deceased | wife,2,2
+HP-00028388,FCL2-013807,nicolas poma,male,1838,1838,husband,2,2
+HP-00028389,FCL2-013807,ysidora quispe,female,1838,1838,wife,2,2
+HP-00028395,FCL2-013747,jacinto poma,male,1838,1838,husband_father,2,2
+HP-00028397,FCL2-013807,jose quispe,male,1838,1838,wife_father,2,2
+HP-00028614,FCL2-013881,gabriela peres,female,1838,1894,deceased | wife,2,2
+HP-00029007,FCL2-019477,jose quispe,male,1883,1894,husband_father,2,2
+HP-00029066,FCL2-014145,sebastian huamani,male,1884,1912,father | husband_father,2,2
+HP-00029734,FCL2-014504,jesusa sanchez,female,1908,1911,wife,2,2
+HP-00029777,FCL2-014526,sebastian condori,male,1908,1910,husband,2,2
+HP-00029817,FCL2-016136,justo cucho,male,1908,1919,husband_father,2,2
+HP-00029819,FCL2-014546,esteban avalos,male,1908,1917,father | wife_father,2,2
+HP-00029855,FCL2-014566,lorensa de la cruz,female,1908,1915,deceased | wife,2,2
+HP-00029864,FCL2-014573,basilia echaccaya,female,1908,1915,mother | wife_mother,2,2
+HP-00029953,FCL2-014631,doroteo cucho,male,1908,1916,deceased | husband,2,2
+HP-00029954,FCL2-014631,alberta sanchez,female,1908,1916,wife,2,2
+HP-00029960,FCL2-014629,diego cucho,male,1908,1916,father | husband_father,2,2
+HP-00029997,FCL2-005996,timoteo fernandez,male,1908,1916,deceased | husband,2,2
+HP-00030096,FCL2-014716,pablo sanchez,male,1909,1919,deceased | husband,2,2
+HP-00030097,FCL2-014716,emilia espinosa,female,1909,1919,wife,2,2
+HP-00030103,FCL2-014714,francisco sanchez,male,1909,1919,father | husband_father,2,2
+HP-00030115,FCL2-015487,eduarda sanchez,female,1909,1914,husband_mother,2,2
+HP-00030116,FCL2-014722,jose javier,male,1909,1912,father | wife_father,2,2
+HP-00030129,FCL2-015197,jesus barrientos,male,1909,1910,deceased | husband,2,2
+HP-00030130,FCL2-015197,mercedes quispe,female,1909,1910,wife,2,2
+HP-00030136,FCL2-015197,sinforino barrientos,male,1909,1910,father | husband_father,2,2
+HP-00030138,FCL2-015197,silvestre quispe,male,1909,1912,wife_father,2,2
+HP-00030151,FCL2-014746,norberto villegas,male,1909,1918,husband,2,2
+HP-00030160,FCL2-014747,mariano sanchez,male,1896,1918,father | wife_father,3,3
+HP-00030169,FCL2-014754,simon quispe,male,1909,1917,father | husband_father,2,2
+HP-00030170,FCL2-014755,maria ramos,female,1909,1917,husband_mother | mother,2,2
+HP-00030172,FCL2-014756,eduarda avalos,female,1909,1920,wife_mother,2,2
+HP-00030200,FCL2-014773,simon ramos,male,1909,1918,father | husband_father,2,2
+HP-00030201,FCL2-014774,josefa huamani,female,1909,1918,husband_mother | mother,2,2
+HP-00030215,FCL2-014789,porfirio cucho,male,1909,1918,deceased | husband,2,2
+HP-00030324,FCL2-014848,florentina zarate,female,1910,1919,mother | wife_mother,2,2
+HP-00030355,FCL2-015403,leocadia quispe,female,1910,1913,husband_mother,2,2
+HP-00030391,FCL2-014892,crisostomo vega,male,1910,1919,husband,2,2
+HP-00030392,FCL2-014892,betsabe quispe,female,1910,1919,deceased | wife,2,2
+HP-00030400,FCL2-014892,romualdo quispe,male,1910,1919,father | wife_father,2,2
+HP-00030401,FCL2-014892,norberta chinchay,female,1910,1919,mother | wife_mother,2,2
+HP-00030420,FCL2-014904,esteban urbano,male,1910,1920,father | husband_father,2,2
+HP-00030498,FCL2-009954,mariano cucho,male,1896,1910,wife_father,2,2
+HP-00030509,FCL2-014954,ancelmo lopez,male,1906,1910,wife_father,2,2
+HP-00030510,FCL2-014955,marcelina castro,female,1906,1910,wife_mother,2,2
+HP-00030620,FCL2-015408,nasario quispe,male,1911,1913,husband_father,2,2
+HP-00030643,FCL2-015025,severina perez,female,1911,1917,mother | wife_mother,2,2
+HP-00030671,FCL2-015663,vicente ccoillo,male,1912,1915,husband_father | wife_father,2,2
+HP-00030672,FCL2-015663,agustina urbano,female,1912,1915,husband_mother | wife_mother,2,2
+HP-00030701,FCL2-015055,tiburcio condori,male,1904,1912,wife_father,2,2
+HP-00030702,FCL2-015056,saturnina garcia,female,1904,1912,wife_mother,2,2
+HP-00030722,FCL2-015068,clara siancas,female,1912,1916,mother | wife_mother,2,2
+HP-00030730,FCL2-015073,maria santiago,female,1902,1912,husband_mother,2,2
+HP-00030733,FCL2-015694,augusto siancas,male,1912,1914,husband,2,2
+HP-00030734,FCL2-015694,leocadia champa,female,1912,1914,deceased | wife,2,2
+HP-00030739,FCL2-015694,tomas siancas,male,1912,1916,husband_father,2,2
+HP-00030741,FCL2-015694,gaspar champa,male,1912,1914,father | wife_father,2,2
+HP-00030742,FCL2-015694,felipa huamani,female,1912,1914,mother | wife_mother,2,2
+HP-00030753,FCL2-015087,cristobal aiquipa,male,1912,1916,husband,2,2
+HP-00030769,FCL2-015093,francisco cusi,male,1912,1920,father | husband_father,3,3
+HP-00030770,FCL2-015094,andrea aiquipa,female,1912,1920,husband_mother | mother,3,3
+HP-00030804,FCL2-015116,marcela condori,female,1912,1916,wife,2,2
+HP-00030809,FCL2-015114,fulgencio quispe,male,1912,1916,father | husband_father,2,2
+HP-00030812,FCL2-015116,petronila huallpatuero,female,1912,1918,wife_mother,2,2
+HP-00030821,FCL2-019285,manuel carbajal,male,1893,1912,wife_father,2,2
+HP-00030889,FCL2-015155,celedonio buitron,male,1912,1917,father | husband_father,2,2
+HP-00030890,FCL2-015156,natividad arango,female,1912,1917,husband_mother | mother,2,2
+HP-00030940,FCL2-016141,candelaria quispe,female,1912,1919,husband_mother,2,2
+HP-00030993,FCL2-015214,julian huamani,male,1912,1919,deceased | husband,2,2
+HP-00030994,FCL2-015214,mercedes urbano,female,1912,1919,wife,2,2
+HP-00030999,FCL2-015212,luis huamani,male,1912,1919,father | husband_father,4,4
+HP-00031052,FCL2-015246,petronila quispe,female,1913,1919,wife,2,2
+HP-00031058,FCL2-015245,manuela huamani,female,1913,1919,husband_mother | mother,2,2
+HP-00031070,FCL2-015251,antonia urbano,female,1913,1921,wife_mother,2,2
+HP-00031087,FCL2-015261,jose vega,male,1913,1918,father | husband_father,2,2
+HP-00031088,FCL2-015262,francisca sanchez,female,1913,1918,husband_mother | mother,2,2
+HP-00031092,FCL2-015270,margarita sanchez,female,1913,1914,wife,2,2
+HP-00031097,FCL2-015268,victor quispe,male,1913,1914,father | husband_father,2,2
+HP-00031098,FCL2-015269,basilia urbano,female,1913,1914,husband_mother | mother,2,2
+HP-00031101,FCL2-015276,julian huamani,male,1913,1918,deceased | husband,2,2
+HP-00031102,FCL2-015276,ysidora sanchez,female,1913,1918,wife,2,2
+HP-00031148,FCL2-020413,juana sanchez,female,1903,1913,husband_mother,2,2
+HP-00031187,FCL2-019810,andres echaccaya,male,1896,1913,husband_father,2,2
+HP-00031188,FCL2-019810,juliana ccoillo,female,1896,1913,husband_mother,2,2
+HP-00031212,FCL2-015331,juliana sanchez,female,1913,1919,wife,2,2
+HP-00031217,FCL2-015329,andres poma,male,1913,1919,father | husband_father,2,2
+HP-00031218,FCL2-015330,basilia vega,female,1913,1919,husband_mother | mother,2,2
+HP-00031307,FCL2-016229,celedonio bautista,male,1913,1919,husband_father,2,2
+HP-00031308,FCL2-016229,eduarda sanchez,female,1913,1919,husband_mother,2,2
+HP-00031311,FCL2-015382,simon huallpatuero,male,1913,1916,deceased | husband,2,2
+HP-00031312,FCL2-015382,manuela condori,female,1913,1916,wife,2,2
+HP-00031318,FCL2-015381,petronila chinchay,female,1913,1916,husband_mother | mother,2,2
+HP-00031320,FCL2-015382,damiana llamocca,female,1896,1913,wife_mother,2,2
+HP-00031402,FCL2-015430,brigida quispe,female,1914,1920,wife,2,2
+HP-00031428,FCL2-019279,patricia medina,female,1893,1914,husband_mother,2,2
+HP-00031475,FCL2-015462,mariano arango,male,1903,1914,husband_father,2,2
+HP-00031487,FCL2-015467,patricio berrocal,male,1904,1914,wife_father,2,2
+HP-00031488,FCL2-015467,benita ochoa,female,1904,1914,wife_mother,2,2
+HP-00031499,FCL2-015477,francisco mancco,male,1914,1917,husband,2,2
+HP-00031500,FCL2-015477,beatriz cuevas,female,1914,1917,deceased | wife,2,2
+HP-00031507,FCL2-015477,felipe cuevas,male,1914,1917,father | wife_father,2,2
+HP-00031508,FCL2-015477,feliciana cucho,female,1914,1917,mother | wife_mother,2,2
+HP-00031569,FCL2-015508,policarpo quispe,male,1914,1915,husband,2,2
+HP-00031577,FCL2-015513,juan sanchez,male,1914,1915,father | wife_father,2,2
+HP-00031719,FCL2-015592,gregoria diaz,female,1914,1920,wife,2,2
+HP-00031724,FCL2-015590,fernando mancco,male,1899,1920,father | husband_father,3,3
+HP-00031725,FCL2-015591,pascuala cruz,female,1899,1920,husband_mother | mother,3,3
+HP-00031746,FCL2-015603,alvino roque,male,1879,1915,wife_father,3,3
+HP-00031747,FCL2-015604,monica barrientos,female,1879,1915,wife_mother,3,3
+HP-00031768,FCL2-006619,raimundo polanco,male,1915,1918,deceased | husband,2,2
+HP-00031775,FCL2-015620,petronila sanchez,female,1915,1918,husband_mother | mother,2,2
+HP-00031789,FCL2-015633,petronila vivanco,female,1915,1919,wife,2,2
+HP-00031794,FCL2-015631,carlos ccoillo,male,1902,1919,father | husband_father,3,3
+HP-00031795,FCL2-015632,magdalena valencia,female,1902,1919,husband_mother | mother,3,3
+HP-00031796,FCL2-015633,fernando vivanco,male,1915,1920,wife_father,2,2
+HP-00031797,FCL2-015633,bernabe chinchay,female,1915,1920,wife_mother,2,2
+HP-00031825,FCL2-015648,petronila asto,female,1901,1915,husband_mother | wife_mother,2,2
+HP-00031858,FCL2-016154,daniel bautista,male,1915,1917,husband,2,2
+HP-00031859,FCL2-016154,salome ochoa,female,1915,1917,deceased | wife,2,2
+HP-00031864,FCL2-016154,celedonio bautista,male,1915,1919,husband_father,2,2
+HP-00031865,FCL2-016154,eduarda sanchez,female,1915,1919,husband_mother,2,2
+HP-00031866,FCL2-016154,jeronimo ochoa,male,1915,1917,father | wife_father,2,2
+HP-00031867,FCL2-016154,facunda espinosa,female,1915,1917,mother | wife_mother,2,2
+HP-00031868,FCL2-015674,sabeliano sanchez,male,1916,1918,deceased | husband,2,2
+HP-00031869,FCL2-015674,maria achamisa,female,1916,1918,wife,2,2
+HP-00031948,FCL2-015714,victor suica,male,1916,1918,deceased | husband,2,2
+HP-00031949,FCL2-015714,faustina polanco,female,1916,1918,wife,2,2
+HP-00031954,FCL2-015714,esteban suica,male,1916,1918,father | husband_father,2,2
+HP-00032009,FCL2-015742,paula polanco,unknown,1917,1917,deceased | wife,2,2
+HP-00032014,FCL2-019080,dionicio vega,male,1891,1917,husband_father,2,2
+HP-00032055,FCL2-015766,segunda jimenez,female,1917,1918,husband_mother | mother,2,2
+HP-00032058,FCL2-015773,mariano champa,male,1917,1917,husband,2,2
+HP-00032078,FCL2-015783,francisco perez,male,1917,1920,husband,2,2
+HP-00032079,FCL2-015783,cristina cucho,female,1917,1920,deceased | wife,2,2
+HP-00032086,FCL2-015783,feliz cucho,male,1917,1920,father | wife_father,2,2
+HP-00032087,FCL2-015783,lorenza ccanto,female,1917,1920,mother | wife_mother,2,2
+HP-00032126,FCL2-021035,martin quispe,male,1907,1917,wife_father,2,2
+HP-00032164,FCL2-020489,nasario quispe,male,1903,1918,husband_father,2,2
+HP-00032245,FCL2-015866,marcelina canales,female,1891,1918,husband_mother,2,2
+HP-00032324,FCL2-015905,encarnacion evangelista,female,1918,1920,husband_mother,2,2
+HP-00032424,FCL2-015251,luis huamani,male,1918,1921,husband_father,2,2
+HP-00032438,FCL2-015970,delacruz quispe,male,1918,1919,husband,2,2
+HP-00032439,FCL2-015970,aurelia condori,female,1918,1919,deceased | wife,2,2
+HP-00032446,FCL2-015970,aniceto condori,male,1918,1919,father | wife_father,2,2
+HP-00032447,FCL2-015970,francisca tito,female,1918,1919,mother | wife_mother,2,2
+HP-00032478,FCL2-015990,domingo ccanto,male,1918,1920,deceased | husband,2,2
+HP-00032479,FCL2-015990,serafina ccochachi,female,1918,1920,wife,2,2
+HP-00032484,FCL2-015990,laurencio ccanto,male,1918,1920,father | husband_father,2,2
+HP-00032485,FCL2-015990,nicolasa gonzalez,female,1918,1920,husband_mother | mother,2,2
+HP-00032698,FCL2-016107,paulino bendezu,male,1919,1919,deceased | husband,2,2
+HP-00032699,FCL2-016107,sofia cardenas,female,1919,1919,wife,2,2
+HP-00032704,FCL2-016105,jose j bendezu,male,1919,1919,father | husband_father,2,2
+HP-00032706,FCL2-016107,jacinto cardenas,male,1919,1919,wife_father,2,2
+HP-00032707,FCL2-016107,raimunda medina,female,1919,1919,wife_mother,2,2
+HP-00032716,FCL2-016112,jose cucho,male,1899,1919,wife_father,2,2
+HP-00032717,FCL2-016112,felipa gavilan,female,1899,1919,wife_mother,2,2
+HP-00033014,FCL2-016260,manuel bendezu,male,1887,1919,wife_father,2,2
+HP-00033015,FCL2-016260,melchora huamani,female,1887,1919,wife_mother,2,2
+HP-00033934,FCL2-016737,paula chinchay,female,1850,1870,wife_mother,2,2
+HP-00034349,FCL2-016985,martin huamani,male,1857,1919,husband,2,2
+HP-00034350,FCL2-016985,josefa caballero,female,1857,1919,deceased | wife,2,2
+HP-00034358,FCL2-016985,paula samora,female,1857,1919,mother | wife_mother,2,2
+HP-00034546,FCL2-017110,julian quispe,male,1861,1893,wife_father,2,2
+HP-00034576,FCL2-017131,bernardo huamani,male,1862,1893,husband,2,2
+HP-00034577,FCL2-017131,maria suica,female,1862,1893,deceased | wife,2,2
+HP-00035154,FCL2-017458,cristoval huamani,male,1869,1871,deceased | husband,3,3
+HP-00035155,FCL2-017458,francisca huallpatuero,female,1869,1871,deceased | wife,3,3
+HP-00035187,FCL2-017477,asunta vuitron,female,1869,1911,deceased | wife,2,2
+HP-00035332,FCL2-017564,marcos champa,male,1869,1895,husband_father,2,2
+HP-00035381,FCL2-017588,lucia orihuela,female,1870,1877,husband_mother,2,2
+HP-00035419,FCL2-017611,clemencia javier,female,1870,1889,husband_mother,2,2
+HP-00035486,FCL2-017650,bernave condori,male,1870,1915,deceased | husband,2,2
+HP-00035593,FCL2-017715,mariana castro,female,1871,1903,mother | wife_mother,2,2
+HP-00035646,FCL2-017753,ynosencio quispe,male,1871,1891,deceased | husband,2,2
+HP-00035826,FCL2-017846,felipa alvarado,female,1877,1904,husband_mother,2,2
+HP-00035880,FCL2-017872,barbara bendezu,female,1877,1918,deceased | wife,2,2
+HP-00035899,FCL2-017588,manuel damian,male,1877,1891,deceased | husband,2,2
+HP-00035993,FCL2-017932,josefa aiquipa,female,1878,1902,husband_mother | mother,2,2
+HP-00036034,FCL2-019323,carlos vega,male,1880,1894,wife_father,2,2
+HP-00036093,FCL2-017985,tadea nolasco,female,1880,1916,husband_mother | mother,2,2
+HP-00036196,FCL2-018045,domingo quispe,male,1880,1882,deceased | husband,2,2
+HP-00036197,FCL2-018045,simona llamocca,female,1880,1882,wife,2,2
+HP-00036222,FCL2-019911,santiago urbano,male,1880,1897,husband_father,2,2
+HP-00036354,FCL2-018125,antonia barrientos,female,1882,1917,husband_mother | mother,2,2
+HP-00036357,FCL2-018131,saturnino santa cruz,male,1882,1888,husband,2,2
+HP-00036417,FCL2-018163,jose huarcaya,male,1884,1884,husband,2,2
+HP-00036418,FCL2-018163,laureana cucho,female,1884,1884,wife,2,2
+HP-00036423,FCL2-018163,francisco huarcaya,male,1884,1884,husband_father,2,2
+HP-00036424,FCL2-018163,juana munoz,female,1884,1884,husband_mother,2,2
+HP-00036425,FCL2-018163,miguel cucho,male,1884,1884,wife_father,2,2
+HP-00036426,FCL2-018163,micaela peres,female,1884,1884,wife_mother,2,2
+HP-00036427,FCL2-018164,luis javier,male,1884,1884,husband,2,2
+HP-00036434,FCL2-018169,ysabel lonasco,female,1884,1884,husband_mother,2,2
+HP-00036436,FCL2-018170,visenta osorio,female,1884,1884,wife_mother,2,2
+HP-00036512,FCL2-018215,alejo sanchez,male,1884,1912,father | husband_father,2,2
+HP-00036513,FCL2-018216,maria cucho,female,1884,1912,husband_mother | mother,2,2
+HP-00036565,FCL2-009954,juan ramos,male,1885,1896,husband_father,2,2
+HP-00036569,FCL2-018251,rudecindo chalco,male,1885,1914,husband,2,2
+HP-00036577,FCL2-018252,sebastian serrano,male,1885,1889,father | wife_father,2,2
+HP-00036742,FCL2-018350,clemente rojas,male,1887,1917,father | husband_father,2,2
+HP-00036761,FCL2-018362,laurencio mancco,male,1887,1917,father | husband_father,2,2
+HP-00036763,FCL2-018364,andres quispe,male,1887,1916,father | wife_father,2,2
+HP-00036764,FCL2-018364,pascuala cruz,female,1887,1916,mother | wife_mother,2,2
+HP-00036781,FCL2-018376,carlos vega,male,1887,1913,father | husband_father,2,2
+HP-00036832,FCL2-018403,leocadia roque,female,1887,1917,husband_mother | mother,2,2
+HP-00036841,FCL2-018409,nicolas sanchez,male,1887,1912,father | husband_father,2,2
+HP-00036901,FCL2-018438,bernarda choccehuanca,female,1887,1916,husband_mother | mother,2,2
+HP-00037108,FCL2-018558,pascuala cruz,female,1888,1919,mother | wife_mother,2,2
+HP-00037116,FCL2-018564,santos aiquipa,male,1888,1918,father | husband_father,2,2
+HP-00037117,FCL2-018565,cecilia polanco,female,1888,1918,husband_mother | mother,2,2
+HP-00037141,FCL2-018581,manuela ccoillo,female,1888,1913,mother | wife_mother,2,2
+HP-00037149,FCL2-018588,ambrocio cucho,male,1888,1918,deceased | husband,2,2
+HP-00037193,FCL2-018620,ubaldo guillen,male,1888,1916,husband,2,2
+HP-00037202,FCL2-018621,trinidad roca,male,1888,1916,father | wife_father,2,2
+HP-00037235,FCL2-018642,mariano aime,male,1889,1919,father | wife_father,2,2
+HP-00037310,FCL2-018687,narciso guillen,male,1889,1918,father | husband_father,2,2
+HP-00037378,FCL2-019966,juan ccanto,male,1889,1899,wife_father,2,2
+HP-00037380,FCL2-018725,jervacio canchari,male,1889,1916,deceased | husband,2,2
+HP-00037387,FCL2-018731,manuel canchari,male,1889,1916,father | husband_father,2,2
+HP-00037460,FCL2-018777,manuel mejia,male,1890,1904,wife_father,2,2
+HP-00037461,FCL2-018777,josefa espinosa,female,1890,1904,wife_mother,2,2
+HP-00037489,FCL2-018795,catalina quispe,female,1890,1894,husband_mother,2,2
+HP-00037491,FCL2-018797,juana huarcaya,female,1890,1893,mother | wife_mother,2,2
+HP-00037521,FCL2-018816,manuel medina,male,1890,1919,father | husband_father,2,2
+HP-00037545,FCL2-018834,gabriela vega,female,1890,1911,deceased | wife,2,2
+HP-00037721,FCL2-018934,juan avalos,male,1891,1918,father | wife_father,3,3
+HP-00037871,FCL2-019021,juan urvano,male,1891,1891,husband_father | wife_father,2,2
+HP-00038044,FCL2-020260,jose ramos,male,1892,1901,husband_father,3,3
+HP-00038046,FCL2-019122,mariano santiago,male,1892,1893,wife_father,2,2
+HP-00038076,FCL2-019142,juan avalos,male,1892,1919,father | wife_father,2,2
+HP-00038113,FCL2-019164,luisa poma,female,1892,1918,husband_mother | mother,2,2
+HP-00038218,FCL2-019226,jose cucho,male,1892,1913,father | wife_father,2,2
+HP-00038291,FCL2-020951,josefa sanches,female,1893,1906,husband_mother,2,2
+HP-00038335,FCL2-020260,manuela urbano,female,1893,1901,husband_mother,2,2
+HP-00038505,FCL2-019394,bacilia echaccaya,female,1894,1914,deceased | wife,2,2
+HP-00038512,FCL2-019401,magdalena alvizuri,female,1894,1917,husband_mother | mother,2,2
+HP-00038522,FCL2-020695,santiago ccoyllo,male,1894,1905,husband_father,2,2
+HP-00038563,FCL2-020871,damian vega,male,1894,1906,husband_father,2,2
+HP-00038564,FCL2-020871,barbara quispe,female,1894,1906,husband_mother,2,2
+HP-00038587,FCL2-019441,victoriano polanco,male,1894,1919,father | wife_father,2,2
+HP-00038736,FCL2-019525,catalina quispe,female,1894,1907,husband_mother,2,2
+HP-00038739,FCL2-019527,calisto lopez,male,1894,1918,deceased | husband,2,2
+HP-00038762,FCL2-019541,ysidora canchari,female,1895,1913,deceased | wife,2,2
+HP-00038770,FCL2-019548,juan canchari,male,1895,1913,father | wife_father,2,2
+HP-00038827,FCL2-019586,simona ayvar,female,1895,1896,wife,2,2
+HP-00038931,FCL2-019640,andrea huauya,female,1895,1921,husband_mother | mother,2,2
+HP-00038941,FCL2-019647,corpus quispe,male,1895,1918,father | husband_father,2,2
+HP-00039020,FCL2-019700,felipe huarcaya,male,1895,1919,deceased | husband,2,2
+HP-00039021,FCL2-019700,ysabel congalla,female,1895,1919,wife,2,2
+HP-00039027,FCL2-019700,santiago huarcaya,male,1895,1919,father | husband_father,2,2
+HP-00039028,FCL2-019700,dolores morales,female,1895,1919,husband_mother | mother,2,2
+HP-00039049,FCL2-019711,alejo echaccaya,male,1895,1916,father | husband_father,2,2
+HP-00039118,FCL2-019754,francisco rodriguez,male,1896,1916,father | wife_father,2,2
+HP-00039119,FCL2-019755,cecilia romero,female,1896,1916,mother | wife_mother,2,2
+HP-00039138,FCL2-020553,nicolas serrano,male,1896,1904,husband_father,2,2
+HP-00039162,FCL2-019778,santos polanco,male,1896,1919,father | wife_father,2,2
+HP-00039163,FCL2-019779,basilia pomallihua,female,1896,1919,mother | wife_mother,2,2
+HP-00039383,FCL2-019919,nasario ccanto,male,1897,1916,deceased | husband,2,2
+HP-00039384,FCL2-019919,gregoria gavilan,female,1897,1916,wife,2,2
+HP-00039391,FCL2-019918,francisca quispe,female,1897,1916,husband_mother | mother,2,2
+HP-00039441,FCL2-019944,juan de dios guillen,male,1898,1904,wife_father,2,2
+HP-00039442,FCL2-019944,manuela oscco,female,1898,1904,wife_mother,2,2
+HP-00039502,FCL2-019976,cristina condore,female,1899,1912,deceased | wife,2,2
+HP-00039583,FCL2-020024,gabriel palomino,male,1901,1912,father | wife_father,2,2
+HP-00039629,FCL2-020059,andres sanchez,male,1901,1919,deceased | husband,2,2
+HP-00039661,FCL2-020072,juana ramos,female,1901,1912,mother | wife_mother,2,2
+HP-00039716,FCL2-020103,celedonia vacas,female,1901,1908,wife_mother,2,2
+HP-00039761,FCL2-020135,froilan polanco,male,1901,1919,husband,2,2
+HP-00039762,FCL2-020135,gavina aime,female,1901,1919,deceased | wife,2,2
+HP-00039770,FCL2-020135,calixto aime,male,1901,1919,father | wife_father,2,2
+HP-00039771,FCL2-020135,gabriela quispe,female,1901,1919,mother | wife_mother,2,2
+HP-00039877,FCL2-020194,segundo quispe,male,1901,1919,father | wife_father,2,2
+HP-00039963,FCL2-020241,damaso gutierrez,male,1901,1920,father | husband_father,2,2
+HP-00039964,FCL2-020242,catalina javier,female,1901,1920,husband_mother | mother,2,2
+HP-00040021,FCL2-020281,marcelino huarcaya,male,1902,1919,deceased | husband,2,2
+HP-00040022,FCL2-020281,maximiliana arango,female,1902,1919,wife,2,2
+HP-00040039,FCL2-020287,pablo allccari,male,1902,1910,father | husband_father,2,2
+HP-00040044,FCL2-020288,angelina huarcaya,female,1902,1911,deceased | wife,2,2
+HP-00040338,FCL2-020441,paula rojas,female,1903,1921,husband_mother | mother,2,2
+HP-00040475,FCL2-020497,tiburcia huamani,female,1903,1906,deceased | wife,2,2
+HP-00040480,FCL2-020497,andres huamani,male,1903,1906,father | wife_father,2,2
+HP-00040481,FCL2-020497,eustaquia palomino,female,1903,1906,mother | wife_mother,2,2
+HP-00040482,FCL2-020501,pio huarcaya,male,1903,1919,deceased | husband,2,2
+HP-00040483,FCL2-020501,dolores rojas,female,1903,1919,wife,2,2
+HP-00040515,FCL2-020511,eugenia rodrigues,female,1903,1911,deceased | wife,2,2
+HP-00040523,FCL2-020518,pascuala aguilar,female,1903,1911,mother | wife_mother,2,2
+HP-00040652,FCL2-020891,severino dias,male,1904,1906,wife_father,2,2
+HP-00040662,FCL2-020573,epifanio vega,male,1904,1919,husband,2,2
+HP-00040663,FCL2-020573,eustaquia quispe,female,1904,1919,deceased | wife,2,2
+HP-00040668,FCL2-020573,simon quispe,male,1904,1919,father | wife_father,2,2
+HP-00040684,FCL2-020581,damian chinchay,male,1904,1916,father | wife_father,2,2
+HP-00040686,FCL2-020584,francisco vacas,male,1904,1918,husband,2,2
+HP-00040687,FCL2-020584,maria coro,female,1904,1918,deceased | wife,2,2
+HP-00040695,FCL2-020590,victoria huarcaya,female,1904,1916,wife,2,2
+HP-00040796,FCL2-015467,adriano fuentes,male,1904,1911,deceased | husband,2,2
+HP-00040797,FCL2-015467,juliana berrocal,female,1904,1911,wife,2,2
+HP-00041035,FCL2-020750,carlos espinosa,male,1905,1916,deceased | husband,2,2
+HP-00041056,FCL2-020764,dionicia pulanco,female,1905,1918,deceased | wife,2,2
+HP-00041074,FCL2-020780,lorenza champa,female,1905,1918,husband_mother | mother,2,2
+HP-00041149,FCL2-022878,juan huamani,male,1906,1918,father | husband_father,2,2
+HP-00041203,FCL2-020850,candelaria quispe,female,1906,1919,husband_mother | mother,2,2
+HP-00041213,FCL2-020857,tomas chinchay,male,1906,1919,father | husband_father,2,2
+HP-00041258,FCL2-020884,narciso bustillos,male,1906,1918,father | wife_father,2,2
+HP-00041393,FCL2-020963,ysabel huarcaya,female,1906,1911,wife,2,2
+HP-00041443,FCL2-020987,tiburcio serrano,male,1906,1918,father | husband_father,2,2
+HP-00041458,FCL2-021001,martin urbano,male,1907,1912,deceased | husband,2,2
+HP-00041513,FCL2-021035,pedro urbano,male,1907,1916,deceased | husband,2,2
+HP-00041514,FCL2-021035,carmen quispe,female,1907,1916,wife,2,2
+HP-00042026,FCL2-021261,fernanda huallpatuero,female,1867,1868,mother,2,2
+HP-00042108,FCL2-021292,torivia avalos,female,1868,1871,wife,3,3
+HP-00042109,FCL2-021293,mariano huallpatuero,male,1868,1871,deceased,3,3
+HP-00042110,FCL2-021294,rafaela huamani,female,1868,1871,wife,3,3
+HP-00042111,FCL2-021295,angela sevidola,female,1869,1871,deceased,3,3
+HP-00042112,FCL2-021296,serafin avalos,male,1869,1871,husband,3,3
+HP-00042113,FCL2-021297,feliciana,female,1869,1871,deceased,2,2
+HP-00042116,FCL2-021299,pablo espinoza,male,1869,1871,deceased,2,2
+HP-00042117,FCL2-021299,silverio espinoza,male,1869,1871,father,2,2
+HP-00042118,FCL2-021299,santona ccoyllo,female,1869,1871,mother,2,2
+HP-00042119,FCL2-021300,isidora ccoyllo,female,1869,1871,deceased,3,3
+HP-00042121,FCL2-021301,asencio huarancca,male,1869,1871,deceased,2,2
+HP-00042122,FCL2-021301,gabriel huarancca,male,1869,1871,father,2,2
+HP-00042126,FCL2-021302,alverto lopa,male,1869,1871,deceased,3,3
+HP-00042127,FCL2-021303,nicolasa bautista,female,1869,1871,wife,3,3
+HP-00042128,FCL2-021304,francisca espinoza,female,1869,1871,deceased,3,3
+HP-00042129,FCL2-021305,torivio espinoza,male,1869,1871,father,3,3
+HP-00042130,FCL2-021306,eulalia sanchez,female,1869,1871,mother,2,2
+HP-00042136,FCL2-021308,gabriela quizpe,female,1869,1871,mother,3,3
+HP-00042140,FCL2-021310,lorenzo ccoyllo,male,1869,1871,deceased,3,3
+HP-00042150,FCL2-021314,gregorio avalos,male,1869,1871,husband,3,3
+HP-00042151,FCL2-021315,josefa cucho,female,1869,1871,deceased,3,3
+HP-00042152,FCL2-021315,seberino cucho,male,1869,1871,father,3,3
+HP-00042153,FCL2-021315,marcela huamani,female,1869,1871,mother,3,3
+HP-00042160,FCL2-021318,victorio poma,male,1869,1871,deceased,2,2
+HP-00042161,FCL2-021318,jose poma,male,1869,1871,father,2,2
+HP-00042162,FCL2-021318,fernanda huauya,female,1869,1871,mother,2,2
+HP-00042164,FCL2-021319,vacilio rayme,male,1869,1871,father,3,3
+HP-00042165,FCL2-021319,victoria sanches,female,1869,1871,mother,3,3
+HP-00042172,FCL2-021322,andres ichaccaya,male,1869,1870,father,2,2
+HP-00042173,FCL2-021323,josefa ccanto,female,1869,1870,mother,2,2
+HP-00042174,FCL2-021324,juana cerrano,female,1869,1871,deceased,3,3
+HP-00042175,FCL2-021324,manuel cerrano,male,1869,1871,father,3,3
+HP-00042176,FCL2-021324,bernarda choccehuanca,female,1869,1871,mother,3,3
+HP-00042182,FCL2-021327,calisto dias,male,1869,1871,deceased,3,3
+HP-00042183,FCL2-021327,pedro dias,male,1869,1871,father,3,3
+HP-00042184,FCL2-021327,agustina sanches,female,1869,1871,mother,3,3
+HP-00042189,FCL2-021331,antonia ramos,female,1869,1871,deceased,3,3
+HP-00042190,FCL2-021331,pascual ramos,male,1869,1871,father,3,3
+HP-00042191,FCL2-021331,manuela huamani,female,1869,1871,mother,3,3
+HP-00042194,FCL2-021333,gervacio roque,male,1870,1870,deceased,2,2
+HP-00042213,FCL2-021339,juliana ochasi,female,1870,1870,wife,2,2
+HP-00042237,FCL2-021308,inosencio urbano,male,1870,1871,deceased,2,2
+HP-00042238,FCL2-021308,hilario urbano,male,1870,1871,father,2,2
+HP-00042244,FCL2-021345,corpus ccoyllo,male,1870,1871,father,2,2
+HP-00042246,FCL2-021346,benterurina quizpe,female,1870,1871,deceased,2,2
+HP-00042248,FCL2-021346,josefa sanchez,female,1870,1871,mother,2,2
+HP-00042257,FCL2-021347,encarnacion cerrano,female,1870,1871,deceased,2,2
+HP-00042258,FCL2-021347,asencio cerrano,male,1870,1871,father,2,2
+HP-00042259,FCL2-021347,atanacia ccanto,female,1870,1871,mother,2,2
+HP-00042265,FCL2-021319,jasinta rayme,female,1870,1871,deceased,2,2
+HP-00042284,FCL2-021349,valentin flores,male,1870,1871,deceased,2,2
+HP-00042286,FCL2-021349,catalina achamisa,female,1870,1871,mother,2,2
+HP-00042287,FCL2-021350,bacilia lopa,female,1870,1871,deceased,2,2
+HP-00042288,FCL2-021350,melchor lopa,male,1870,1871,father,2,2
+HP-00042289,FCL2-021350,yldefonsa asto,female,1870,1871,mother,2,2
+HP-00042296,FCL2-021352,eusevio huamani,male,1870,1871,deceased,2,2
+HP-00042297,FCL2-021352,crisostomo huamani,male,1870,1871,father,2,2
+HP-00042298,FCL2-021352,juliana urbano,female,1870,1871,mother,2,2
+HP-00042300,FCL2-021353,juan ramos,male,1871,1871,father,2,2
+HP-00042304,FCL2-021354,manuela azevedo,female,1871,1871,wife,2,2
+HP-00042305,FCL2-021355,juan llamocca,male,1871,1871,deceased,4,4
+HP-00042306,FCL2-021355,eusevio llamocca,male,1871,1871,father,4,4
+HP-00042307,FCL2-021355,juliana condori,female,1871,1871,mother,4,4
+HP-00042308,FCL2-021356,juana ramos,female,1871,1871,deceased,2,2
+HP-00042309,FCL2-021356,juan ramos,male,1871,1871,father,2,2
+HP-00042312,FCL2-021357,paula quizpe,female,1871,1871,wife,2,2
+HP-00042317,FCL2-021358,marrta,female,1871,1871,deceased,2,2
+HP-00042318,FCL2-021358,apolinario quizpe,male,1871,1871,father,2,2
+HP-00042319,FCL2-021358,visenta huallpatuero,female,1871,1871,mother,2,2
+HP-00042320,FCL2-021359,natividad urbano,female,1871,1871,deceased,2,2
+HP-00042321,FCL2-021359,carmelo urbano,male,1871,1871,father,2,2
+HP-00042322,FCL2-021359,juana ccoyllo,female,1871,1871,mother,2,2
+HP-00042324,FCL2-021360,maria sancas,female,1871,1871,wife,2,2
+HP-00042331,FCL2-021362,gabriela ayme,female,1871,1871,deceased,2,2
+HP-00042332,FCL2-021362,mariano ayme,male,1871,1871,father,2,2
+HP-00042333,FCL2-021362,cristina bega,female,1871,1871,mother,2,2
+HP-00042334,FCL2-021363,pedro condori,male,1871,1871,deceased,2,2
+HP-00042335,FCL2-021363,bernave condori,male,1871,1871,father,2,2
+HP-00042336,FCL2-021363,magdalena ramos,female,1871,1871,mother,2,2
+HP-00042339,FCL2-021364,mariano berrnaula,male,1871,1871,deceased,2,2
+HP-00042340,FCL2-021364,ysabel,female,1871,1871,wife,2,2
+HP-00042342,FCL2-021365,manuela quizpe,female,1871,1871,wife,2,2
+HP-00042347,FCL2-021366,mariano,male,1871,1871,deceased,2,2
+HP-00042348,FCL2-021366,andres condori,male,1871,1871,father,2,2
+HP-00042349,FCL2-021366,martina cruz,female,1871,1871,mother,2,2
+HP-00042350,FCL2-021367,lauriana espinoza,female,1871,1871,deceased,2,2
+HP-00042351,FCL2-021367,alejo espinoza,male,1871,1871,father,2,2
+HP-00042352,FCL2-021367,natividad tito,female,1871,1871,mother,2,2
+HP-00042353,FCL2-021368,asencio cerrano,male,1871,1871,deceased,2,2
+HP-00042355,FCL2-021369,valerio berrocal,male,1871,1871,deceased,2,2
+HP-00042356,FCL2-021369,estevan berrocal,male,1871,1871,father,2,2
+HP-00042357,FCL2-021369,monica leon,female,1871,1871,mother,2,2
+HP-00042534,FCL2-021386,ysabel davalos,female,1875,1875,deceased,2,2
+HP-00042535,FCL2-021386,mariano davalos,male,1875,1875,father,2,2
+HP-00042536,FCL2-021386,nicolasa urbano,female,1875,1875,mother,2,2
+HP-00043271,FCL2-021747,antonio ramos,male,1892,1893,deceased,2,2
+HP-00043272,FCL2-021748,ygnacia bustios,female,1892,1893,wife,2,2
+HP-00044463,FCL2-022320,carmelon marcacuzco,male,1911,1911,father,2,2
+HP-00044464,FCL2-022320,rufina chinchay,female,1911,1911,mother,2,2
+HP-00045288,FCL2-022601,trinidad misagel,female,1916,1917,deceased | wife,2,2
+HP-00045291,FCL2-022828,justo cucho,male,1916,1917,deceased | husband,2,2
+HP-00045355,FCL2-022628,hermenegildo avalos,male,1916,1916,father,2,2
+HP-00045483,FCL2-022669,mariano huarancca,male,1916,1916,father,2,2
+HP-00045484,FCL2-022669,jacinta venegas,female,1916,1916,mother,2,2
+HP-00045724,FCL2-022749,celsa jaime,female,1917,1919,mother,2,2
+HP-00045892,FCL2-022806,herminia vega,female,1917,1917,deceased,2,2
+HP-00045893,FCL2-022807,mauricio vega,male,1917,1917,father,2,2
+HP-00046077,FCL2-022869,rosas sanchez,male,1918,1918,father,2,2
+HP-00046078,FCL2-022869,maria asturima,female,1918,1918,mother,2,2
+HP-00046500,FCL2-023010,lusinda tacsi,female,1919,1919,deceased | wife,2,2

@@ -1,0 +1,108 @@
+place_id,lugar_id,place_name,standardize_label,alt_names,place_type,es_parte,latitude,longitude,language,source,uri,country_code,mentioned_as
+1,1,Accanta,Accanta,,caserio,,-14.15538,-74.14154,es,Grecia Roque (collaborator GIS data),,PE,['Accanta']
+2,2,Accenana,Accenana,,caserio,,-14.20972,-74.06929,es,Grecia Roque (collaborator GIS data),,PE,"['Accenana', 'Accenana, caserio']"
+3,3,Acobamba,Acobamba,,iglesia parroquial,,-12.84438,-74.57341,es,Grecia Roque (collaborator GIS data),,PE,['Acobamba']
+4,4,Alcamenca,Alcamenca,Alcamenga,pueblo,79,-13.65741,-74.14712,es,Grecia Roque (collaborator GIS data),,PE,"['Alcamenca', 'Alcamenga']"
+5,5,Amaycca,Amaycca,Amaicca|Amaica,caserio,,-14.16048,-74.01614,es,Grecia Roque (collaborator GIS data),,PE,"['Amaicca', 'Amaica']"
+6,6,Andamarca,Andamarca,,pueblo,11,-14.38758,-73.96198,es,Grecia Roque (collaborator GIS data),,PE,['Andamarca']
+7,7,Chuschi,Chuschi,,parroquia,,-13.58502,-74.352,es,Grecia Roque (collaborator GIS data),,PE,['Chuschi']
+8,8,Aucará,Aucará,Aucara|Apcara,iglesia parroquial|cementerio o panteón,,-14.28099,-73.97489,es,Grecia Roque (collaborator GIS data),,PE,"['Aucara', 'Aucara, Otoca', 'Aucara, panteon general', 'Aucara, panteón general', 'Aucará', 'Apcara']"
+9,9,Ayacucho|Huamanga,Ayacucho,Huamanga,ciudad,,-13.16042,-74.22573,es,Grecia Roque (collaborator GIS data),,PE,"['Ayacucho', 'Ayacuchoi', 'Huamanga']"
+10,10,Bisbicha,Bisbicha,Visvicha,caserio|cementerio o panteón,,-14.18333,-74.14321,es,Grecia Roque (collaborator GIS data),,PE,"['Visvicha', 'Visvicha, panteon', 'Visvicha, panteón']"
+11,11,Cabana,Cabana,,iglesia parroquial,,-14.28857,-73.96711,es,Grecia Roque (collaborator GIS data),,PE,"['Cabana', 'Cavana']"
+12,12,Canaria,Canaria,,iglesia parroquial,,-13.92358,-73.90477,es,Grecia Roque (collaborator GIS data),,PE,['Canaria']
+13,13,Carapo,Carapo,,pueblo,,-13.83719,-74.31542,es,Grecia Roque (collaborator GIS data),,PE,['Carapo']
+14,14,Carhuanca,Carhuanca,Carahuanca|Caruanca,pueblo,,-13.7424,-73.78748,es,Grecia Roque (collaborator GIS data),,PE,"['Carahuanca', 'Carhuanca', 'Caruanca']"
+15,15,Carmen Alto,Carmen Alto,,barrio,9,-13.17574,-74.22639,es,Grecia Roque (collaborator GIS data),,PE,['Carmen Alto']
+16,16,Cayara,Cayara,,pueblo,,-13.79497,-73.9888,es,Grecia Roque (collaborator GIS data),,PE,['Cayara']
+17,17,Ccecca,Ccecca,Queca|Cecca,pueblo,23,-14.26777,-73.94453,es,Grecia Roque (collaborator GIS data),,PE,"['Ccecca', 'Cecca', 'Queca']"
+18,18,Chacralla,Chacralla,,iglesia viceparroquial|cementerio o panteón,8,-14.2069,-73.99316,es,Grecia Roque (collaborator GIS data),,PE,"['Chacalla', 'Chacaralla', 'Chacralla', 'Chacralla, cementerio general', 'Chacralla, iglesia vice-parroquial', 'Chacralla, iglesia viceparroquial', 'Chacralla, panteón', 'Chacralla, panteón general', 'Chacralla, pantéon', 'Chacralla, pueblo', 'Chacralla, pueblo, anexo', 'Chacralla, viceparroquia, pueblo']"
+19,19,Chalhuanca,Chalhuanca,,,,-14.29459,-73.24428,es,Grecia Roque (collaborator GIS data),,PE,"['Chalhuanca', 'Challhuanca']"
+20,20,Chapa,Chapa,,caserio,8,-14.27578,-74.01579,es,Grecia Roque (collaborator GIS data),,PE,"['Chacpa', 'Chapa', 'Chapa, caserio', 'Chara']"
+21,21,Chihuire,Chihuire,,caserio,,-14.10289,-73.94432,es,Grecia Roque (collaborator GIS data),,PE,['Chihuire']
+22,22,Chillanccay,Chillanccay,,,12,-14.15309,-73.99984,es,Grecia Roque (collaborator GIS data),,PE,['Chillanccay']
+23,23,Chipao,Chipao,Chipau,iglesia parroquial|cementerio o panteón,,-14.36584,-73.87625,es,Grecia Roque (collaborator GIS data),,PE,"['Chipao', 'Chipau']"
+24,24,Colca,Colca,,parroquia,,-13.71241,-74.03355,es,Grecia Roque (collaborator GIS data),,PE,['Colca']
+25,25,Coracora,Coracora,,pueblo,,-15.01693,-73.78094,es,Grecia Roque (collaborator GIS data),,PE,['Coracora']
+26,26,Huac Huas,Huac Huas,Huachuas,pueblo,,-14.13155,-74.94211,es,Grecia Roque (collaborator GIS data),,PE,['Huachuas']
+27,27,Hualla,Hualla,,pueblo,,-13.8499,-73.95068,es,Grecia Roque (collaborator GIS data),,PE,['Hualla']
+28,28,Orccohuasi,Orccohuasi,Urccohuase|Orcohuasi,,,-14.43605,-73.65453,es,Grecia Roque (collaborator GIS data),,PE,"['Urccohuase', 'Orcohuasi']"
+29,29,Huanaco Pampa,Huanaco Pampa,Huancopampa|Puna de Huancopampa|punas de Huancopampa,caserio,,-14.19343,-74.20502,es,Grecia Roque (collaborator GIS data),,PE,"['Huanacopampa', 'Huancopampa', 'Puna de Huancopampa', 'punas de Huancopampa']"
+30,30,Huancapi,Huancapi,,pueblo,,-13.75246,-74.06636,es,Grecia Roque (collaborator GIS data),,PE,"['Huanca', 'Huancapi']"
+31,31,Huancasancos,Huancasancos,Sancos,parroquia,,-13.91996,-74.33386,es,Grecia Roque (collaborator GIS data),,PE,"['Huancasancos', 'Sancos']"
+32,32,Huanta,Huanta,,ciudad,,-12.93991,-74.24789,es,Grecia Roque (collaborator GIS data),,PE,['Huanta']
+33,33,Huaycahuacho,Huaycahuacho,Huaicahuacho,iglesia viceparroquial,11,-14.22679,-73.95685,es,Grecia Roque (collaborator GIS data),,PE,"['Huaicahuacho', 'Huaycahuacho']"
+34,34,Humaya,Humaya,Umalla|Humalla,caserio,8,-14.24061,-74.01975,es,Grecia Roque (collaborator GIS data),,PE,"['Humalla', 'Umalla']"
+35,35,Ica,Ica,,,,-14.06405,-75.72906,es,Grecia Roque (collaborator GIS data),,PE,['Ica']
+36,36,Ishua,Ishua,Isua|Yshua|Ysua|Hishua,iglesia viceparroquial|cementerio o panteón,8,-14.24973,-73.95556,es,Grecia Roque (collaborator GIS data),,PE,"['Hishua', 'Ishua', 'Ishua, iglesia viceparroquial', 'Ishua, pueblo, anexo', 'Isua', 'Yshua', 'Ysua']"
+37,37,Jauja,Jauja,,parroquia,,-11.77527,-75.50007,es,Grecia Roque (collaborator GIS data),,PE,['Jauja']
+38,38,Llusita,Llusita,,,79,-13.69857,-74.11561,es,Grecia Roque (collaborator GIS data),,PE,['Llusita']
+39,39,Lucanas,Lucanas,San Juan de Lucanas,,,-14.62236,-74.23348,es,Grecia Roque (collaborator GIS data),,PE,"['Lucanas', 'San Juan de Lucanas']"
+40,40,Mayo Luren,Mayo Luren,Mayo,caserio,47,-14.2479,-74.04268,es,Grecia Roque (collaborator GIS data),,PE,"['Mayo', 'Mayo, caserio', 'Mayo, punto']"
+41,41,Mayobamba,Mayobamba,Moyobamba,,23,-14.37474,-73.89274,es,Grecia Roque (collaborator GIS data),,PE,"['Mayobamba', 'Moyobamba']"
+42,42,Morcolla,Morcolla,,,60,-14.10869,-73.87223,es,Grecia Roque (collaborator GIS data),,PE,['Morcolla']
+43,43,Nasca,Nasca,Nazca,,,-14.82763,-74.937,es,Grecia Roque (collaborator GIS data),,PE,"['Nasca', 'Nazca']"
+44,44,Orccosa,Orccosa,Hurccuza,caserio,,-14.25084,-74.03514,es,Grecia Roque (collaborator GIS data),,PE,"['Orccosa', 'Hurccuza']"
+45,45,Otoca,Otoca,,,,-14.4902,-74.6864,es,Grecia Roque (collaborator GIS data),,PE,['Otoca']
+46,46,Paire,Paire,,iglesia viceparroquial|cementerio o panteón,12|8,-14.1579,-73.97596,es,Grecia Roque (collaborator GIS data),,PE,"['Paire', 'Paire, cementerio general', 'Paire, iglesia', 'Paire, panteón', 'Paire, panteón general', 'Paire, viceparroquia', 'Paire, viceparroquia, pueblo']"
+47,47,Pampamarca,Pampamarca,,iglesia viceparroquial|cementerio o panteón,8,-14.23274,-74.04139,es,Grecia Roque (collaborator GIS data),,PE,"['Mayo Pampamarca', 'Pampamarca', 'Pampamarca, anexo', 'Pampamarca, panteón general', 'pampamarca']"
+48,48,Puquio,Puquio,,parroquia,,-14.69401,-74.12415,es,Grecia Roque (collaborator GIS data),,PE,['Puquio']
+49,49,Querco,Querco,,viceparroquia,77,-13.97954,-74.97679,es,Grecia Roque (collaborator GIS data),,PE,['Querco']
+50,50,Sacsamarca,Sacsamarca,,pueblo,31,-13.94285,-74.31253,es,Grecia Roque (collaborator GIS data),,PE,['Sacsamarca']
+51,51,Pantati,Pantati,,,,-15.36847,-75.95752,es,Grecia Roque (collaborator GIS data),,PE,['pantati']
+52,52,Santa Ana de Aucará,Santa Ana de Aucará,Santa Ana,iglesia viceparroquial|cementerio o panteón,8,-14.19929,-74.08823,es,Grecia Roque (collaborator GIS data),,PE,"['Santa Ana', 'Santa Ana de Aucara']"
+53,53,Saycasa,Saycasa,Saicasa,caserio,,-14.18216,-74.11058,es,Grecia Roque (collaborator GIS data),,PE,['Saicasa']
+54,54,Sondondo,Sondondo,,iglesia viceparroquial,11,-14.29984,-73.93791,es,Grecia Roque (collaborator GIS data),,PE,['Sondondo']
+55,55,Soras,Soras,,parroquia,,-14.11497,-73.60384,es,Grecia Roque (collaborator GIS data),,PE,['Soras']
+56,56,Taccya,Taccya,,caserio,,-14.19511,-74.07251,es,Grecia Roque (collaborator GIS data),,PE,['Taccya']
+57,57,Taulli,Taulli,,pueblo,,-13.76839,-74.33599,es,Grecia Roque (collaborator GIS data),,PE,['Taulli']
+58,58,Umasi,Umasi,Umaci|Humasi,caserio|cementerio o panteón,8,-14.12727,-74.03073,es,Grecia Roque (collaborator GIS data),,PE,"['Humari', 'Umaci', 'Umasi', 'Umasi, capilla', 'Umasi, caserio', 'Umasi, cementerio general', 'Umasi, panteón', 'Umasi, panteón general', 'Humasi']"
+59,59,Vilcas,Vilcas,,,,-13.65304,-73.95391,es,Grecia Roque (collaborator GIS data),,PE,['Vilcas']
+60,60,Huacaña,Huacaña,,parroquia,,-14.17188,-73.88631,es,Grecia Roque (collaborator GIS data),,PE,['Huacaña']
+61,61,Illapata,Illapata,,caserio,,-14.12465,-73.94004,es,Grecia Roque (collaborator GIS data),,PE,['Illapata']
+62,62,Pincocalla,Pincocalla,,,,-14.1202,-73.91429,es,Grecia Roque (collaborator GIS data),,PE,"['Pincocalla', 'Pincucalla']"
+63,63,Andahuaylas,Andahuaylas,Andaguailas,pueblo,,-13.6564,-73.38995,es,Grecia Roque (collaborator GIS data),,PE,['Andaguailas']
+64,64,Apongo,Apongo,,pueblo,12,-14.01324,-73.9325,es,Grecia Roque (collaborator GIS data),,PE,['Apongo']
+65,65,Antay,Antay,,pueblo,60,-14.13483,-73.99626,es,Grecia Roque (collaborator GIS data),,PE,['Antay']
+66,66,Cangallo,Cangallo,,,,-13.6287,-74.14705,es,Grecia Roque (collaborator GIS data),,PE,['Cangallo']
+67,67,Larcay,Larcay,,parroquia,,-14.16877,-73.57284,es,Grecia Roque (collaborator GIS data),,PE,['Larcay']
+68,68,Cachihuancaray,Cachihuancaray,,,,-13.78161,-73.5963,es,Grecia Roque (collaborator GIS data),,PE,['Cachihuancaray']
+69,69,Carampa,Carampa,Caranpa,,,-13.65015,-74.24187,es,Grecia Roque (collaborator GIS data),,PE,['Caranpa']
+71,71,Chaupicancha,Chaupicancha,,caserio,,-14.30401,-74.02446,es,Grecia Roque (collaborator GIS data),,PE,['Chaupicancha']
+72,72,Chocorvos,Chocorvos,Chocorbos,pueblo,,-13.82534,-75.25771,es,Grecia Roque (collaborator GIS data),,PE,['Chocorbos']
+73,73,Chilcas,Chilcas,,pueblo,,-13.17136,-73.9068,es,Grecia Roque (collaborator GIS data),,PE,['Chilcas']
+74,74,Champa,Champa,,caserio,,-14.56465,-73.70179,es,Grecia Roque (collaborator GIS data),,PE,['Champa']
+75,75,Cochas,Cochas,,,,-13.05062,-73.88248,es,Grecia Roque (collaborator GIS data),,PE,['Cochas']
+76,76,Collay,Collay,,pueblo,,-14.25149,-73.97078,es,Grecia Roque (collaborator GIS data),,PE,['Collay']
+77,77,Cordova,Cordova,,,,-14.04112,-75.1849,es,Grecia Roque (collaborator GIS data),,PE,"['Cordoba', 'Cordova']"
+78,78,Huambalpa,Huambalpa,,pueblo,,-13.75026,-73.93157,es,Grecia Roque (collaborator GIS data),,PE,['Huambalpa']
+79,79,Huancaraylla,Huancaraylla,,,66,-13.71903,-74.10121,es,Grecia Roque (collaborator GIS data),,PE,['Huancaraylla']
+80,80,Ccaralla,Ccaralla,Jaralla|Ccaralla|Aralla|Caralla,caserio,47,-14.22465,-74.08087,es,Grecia Roque (collaborator GIS data),,PE,"['Aralla', 'Caralla', 'Ccaralla', 'Jaralla']"
+81,81,Marca,Marca,,,,-13.78445,-73.95074,es,Grecia Roque (collaborator GIS data),,PE,['Marca']
+82,82,Huayanay,Huayanay,Guayanay,,,-13.02251,-73.98065,es,Grecia Roque (collaborator GIS data),,PE,['Guayanay']
+83,83,Huaytará,Huaytará,Huaytara,parroquia,,-13.60444,-75.35307,es,Grecia Roque (collaborator GIS data),,PE,"['Huaytara', 'Huaytará']"
+84,84,Julcamarca,Julcamarca,,,,-13.01443,-74.44459,es,Grecia Roque (collaborator GIS data),,PE,['Julcamarca']
+85,85,Lima,Lima,,,,-12.04592,-77.0305,es,Grecia Roque (collaborator GIS data),,PE,['Lima']
+86,86,Ocaña,Ocaña,,,,-14.39862,-74.82269,es,Grecia Roque (collaborator GIS data),,PE,['Ocaña']
+87,87,Oyolo,Oyolo,,,,-15.17916,-73.18506,es,Grecia Roque (collaborator GIS data),,PE,['Oyolo']
+88,88,Palco,Palco,Pallcco|Pallco|Payco,viceparroquia,45,-14.41196,-74.65103,es,Grecia Roque (collaborator GIS data),,PE,"['Palco', 'Pallcco', 'Pallco', 'Payco', 'Tallcco']"
+89,89,Paico,Paico,,,,-14.03841,-73.64213,es,Grecia Roque (collaborator GIS data),,PE,['Paico']
+90,90,Pausa,Pausa,Pauza,,,-15.27887,-73.34435,es,Grecia Roque (collaborator GIS data),,PE,"['Pausa', 'Pauza']"
+91,91,Poma,Poma,,viceparroquia,93,-13.97902,-73.82245,es,Grecia Roque (collaborator GIS data),,PE,['Poma']
+92,92,Pullo,Pullo,,pueblo,,-15.2103,-73.82665,es,Grecia Roque (collaborator GIS data),,PE,['Pullo']
+93,93,Querobamba,Querobamba,,parroquia,,-14.01129,-73.83882,es,Grecia Roque (collaborator GIS data),,PE,['Querobamba']
+94,94,Urabamba,Urabamba,,,,-14.12137,-74.4166,es,Grecia Roque (collaborator GIS data),,PE,['Urabamba']
+95,95,Puta,Puta,,caserio,,-14.11689,-74.19838,es,Grecia Roque (collaborator GIS data),,PE,['Puta']
+96,96,Yanaccollpa,Yanaccollpa,,,,-14.54731,-74.2617,es,Grecia Roque (collaborator GIS data),,PE,['Yanaccollpa']
+97,97,Quicco,Quicco,,,93,-13.96841,-73.7347,es,Grecia Roque (collaborator GIS data),,PE,['Quicco']
+98,98,Tallcce,Tallcce,,caserio,,-14.22133,-74.05511,es,Grecia Roque (collaborator GIS data),,PE,"['Tallcce', 'Tallce']"
+99,99,San Jeronimo,San Jeronimo,,pueblo,,-13.98002,-75.70013,es,Grecia Roque (collaborator GIS data),,PE,['San Jeronimo']
+100,100,San Juan,San Juan,,pueblo,,-14.65154,-74.19889,es,Grecia Roque (collaborator GIS data),,PE,[]
+101,101,San Pedro,San Pedro,,,,-14.76718,-74.09767,es,Grecia Roque (collaborator GIS data),,PE,['San Pedro']
+102,102,Puna de Aucará,Puna de Aucará,,,,-14.28642,-73.99676,es,Grecia Roque (collaborator GIS data),,PE,"['Pueblo de Aucará', 'Puna de Aucara', 'Punas de Aucara', 'Punas de Aucará']"
+103,103,Puna de Bisbicha,Puna de Bisbicha,,,,-14.18816,-74.16633,es,Grecia Roque (collaborator GIS data),,PE,[]
+104,104,Puna de Palco,Puna de Palco,,,,-14.36168,-74.61833,es,Grecia Roque (collaborator GIS data),,PE,"['Punas de Palco', 'punas de Palco']"
+105,105,Chiccayse,Chiccayse,,,,-15.05714,-76.50073,es,Grecia Roque (collaborator GIS data),,PE,['Chiccayse']
+106,106,Chumpe,Chumpe,,,,-15.15308,-76.48425,es,Grecia Roque (collaborator GIS data),,PE,['Chumpe']
+107,107,Churbe,Churbe,,,,-15.21199,-76.39454,es,Grecia Roque (collaborator GIS data),,PE,['Churbe']
+108,108,Huambo,Huambo,,,,-13.67995,-74.1936,es,Grecia Roque (collaborator GIS data),,PE,['Huambo']

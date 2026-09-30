@@ -1,0 +1,26 @@
+file_name,source_path,content_type,purpose,release_status,bytes
+01_source_personas.csv,data/raw/personas.csv,copied_csv,Source persona appearances used as the linkage input.,input_or_review_material,4868633
+01_baptisms_clean.csv,data/raw/bautismos_clean.csv,copied_csv,Clean baptism-event source table.,input_or_review_material,1302351
+01_marriages_clean.csv,data/raw/matrimonios_clean.csv,copied_csv,Clean marriage-event source table.,input_or_review_material,687671
+01_burials_clean.csv,data/raw/entierros_clean.csv,copied_csv,Clean burial-event source table.,input_or_review_material,456776
+01_places.csv,data/raw/places.csv,copied_csv,Available place reference table; not yet a general automatic linkage feature.,input_or_review_material,14036
+02_name_frequency_analysis_v13.csv,data/reviewed/name_frequency_analysis_v13.csv,copied_csv,Current reviewed name-frequency and rarity reference.,input_or_review_material,2865293
+02_approved_name_variant_mappings_v1.csv,data/reviewed/approved_name_variant_mappings_v1.csv,copied_csv,Reviewed name-variant mappings used for matching support.,input_or_review_material,3963
+02_persona_name_overrides_v1.csv,data/reviewed/persona_name_overrides_v1.csv,copied_csv,Reviewed person-level source-name corrections.,input_or_review_material,1219
+02_persona_gender_overrides_v1.csv,data/reviewed/persona_gender_overrides_v1.csv,copied_csv,Reviewed person-level gender corrections.,input_or_review_material,686
+02_name_enhanced_review_labels_v2.csv,data/reviewed/name_enhanced_candidate_review_labels_v2.csv,copied_csv,Completed reviewer decisions for name-enhanced candidates.,input_or_review_material,85157
+04_safe_identity_people_nodes.csv,outputs/graph_imports/safe_family_release_v3/neo4j_people_nodes.csv,copied_csv,Safe identity-level people for the trusted family graph.,safe_release,4074787
+04_trusted_family_relationships.csv,outputs/graph_imports/safe_family_release_v3/neo4j_trusted_relationships.csv,copied_csv,Trusted parent-child and spouse relationships only.,safe_release,928093
+04_source_persona_to_identity_and_family_audit.csv,outputs/graph_imports/safe_family_release_v3/source_persona_membership_audit.csv,copied_csv,Trace from source personas to safe identity people and family clusters.,safe_release,4967421
+05_securely_deduplicated_people.csv,outputs/reports/securely_deduplicated_people_v1.csv,copied_csv,Secure multi-record people available for later restricted linkage work.,safe_release,113919
+05_securely_deduplicated_persona_evidence.csv,outputs/reports/securely_deduplicated_persona_evidence_v1.csv,copied_csv,Source-persona evidence for securely deduplicated people.,safe_release,346603
+06_expanded_candidates_high_priority_review.csv,outputs/review/splink_hybrid_v3_expanded_candidate_high_priority_review_v1.csv,copied_csv,Expanded candidates requiring priority human review; not merged.,input_or_review_material,1334009
+06_expanded_candidates_manual_review.csv,outputs/review/splink_hybrid_v3_expanded_candidate_manual_review_v1.csv,copied_csv,Expanded candidates requiring manual review; not merged.,input_or_review_material,4160154
+07_potential_siblings_with_parents_review.csv,outputs/review/professor_potential_siblings_with_parents_v1.csv,copied_csv,Sibling-discovery candidates from shared parents and the ±15-year rule; review-only.,input_or_review_material,203189
+07_spouse_baptism_links_review.csv,outputs/review/professor_spouse_baptism_links_for_review_v1.csv,copied_csv,Possible marriage-spouse and baptismal-child links; review-only.,input_or_review_material,13494
+08_family_cluster_release_readiness.csv,outputs/reports/family_cluster_release_readiness_v3.csv,copied_csv,Current safe family-release counts and validation gate.,safe_release,418
+08_name_reference_validation.csv,outputs/reports/name_reference_validation_v1.csv,copied_csv,Validation of reviewed rules and name-reference preparation.,safe_release,473
+08_expanded_candidate_scoring_summary.csv,outputs/reports/splink_hybrid_v3_expanded_candidate_scoring_summary_v1.csv,copied_csv,Summary of held expanded candidates and their review tiers.,safe_release,367
+08_sibling_discovery_summary.csv,outputs/reports/marriage_parent_pair_sibling_discovery_summary_v1.csv,copied_csv,Summary of the sibling-discovery review-only method.,safe_release,357
+03_source_persona_safe_identity_family_membership_v3.csv,data/processed/identity_aware_family_cluster_membership_final_v3.parquet,parquet_to_csv,Current source-persona membership with safe identity and family-cluster assignment.,safe_release,13016476
+03_historical_person_entities_final_safe.csv,data/processed/historical_person_entities_final_safe.parquet,parquet_to_csv,Safe final identity entities used for the released linkage layer.,safe_release,8303953

@@ -1,0 +1,6 @@
+persona_idno,linkage_full_name_clean,linkage_first_name_clean,linkage_lastname_clean,override_reason,reviewed_by,reviewed_at
+persona-33078,oseas bendezu,oseas,bendezu,"Professor JCP confirmed that 'Oseas Oscar' is a parsing artifact; retain the source spelling separately but use Oseas Bendezu for linkage display.",JCP,2026-08-17
+persona-39936,oseas bendezu,oseas,bendezu,"Professor JCP verified that the source transcription 'Oscar Bendesu' is Oseas Bendezu; retain original spelling separately and use Oseas Bendezu for linkage.",JCP,2026-09-11
+persona-40012,oseas bendezu,oseas,bendezu,"Professor JCP verified that the source transcription 'Oscar Bendesu' is Oseas Bendezu; retain original spelling separately and use Oseas Bendezu for linkage.",JCP,2026-09-11
+persona-40023,oseas bendezu,oseas,bendezu,"Professor JCP verified that the source transcription 'Oscar Bendezu' is Oseas Bendezu; retain original spelling separately and use Oseas Bendezu for linkage.",JCP,2026-09-11
+persona-6274,barbara orosco,barbara,orosco,"Professor JCP verified that the source transcription 'Barvara Orosco' in bautizo-1610 is Barbara Orosco; retain original spelling separately and use Barbara Orosco for linkage.",JCP,2026-09-11

@@ -1,0 +1,24 @@
+# Local Python environment and notebook runtime files
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Superseded notebooks are retained locally for provenance, not the release.
+notebooks/archive/
+
+# Local source data and generated working outputs
+data/
+outputs/
+
+# Keep the curated research release package, but ignore transient local artefacts
+research_data/**/*.tmp
+research_data/**/*.log
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Empty legacy typo file
+requiremnts.txt
